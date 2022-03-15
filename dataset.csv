@@ -1,0 +1,1352 @@
+Ethnicity,Gender,FSM,SEN_type,SEN_grouping,Admission_type,School_characteristic,Religious_denomination,Value,Value_type,Denominator,Numerator
+All,Girls,All,All,Any SEN,All,State-funded mainstream,Church of England,20.9,%,1577,330
+All,All,All,All,No identified SEN,All,State-funded mainstream,Church of England,57.1,%,26852,15335
+All,Girls,All,All,No identified SEN,All,State-funded mainstream,Church of England,59.8,%,13665,8177
+All,Boys,All,All,Any SEN,All,State-funded mainstream,Church of England,17.8,%,2488,442
+All,Boys,All,SEN State EHC,All,All,State-funded mainstream,Church of England,14.9,%,450,67
+All,Boys,All,All,No identified SEN,All,State-funded mainstream,Church of England,54.3,%,13187,7158
+All,Girls,All,SEN State EHC,All,All,State-funded mainstream,Church of England,12.1,%,182,22
+All,Boys,All,No SEN,All,All,State-funded mainstream,Church of England,54.3,%,13187,7158
+All,All,All,SEN Supp,All,All,State-funded mainstream,Church of England,19.9,%,3433,683
+All,Girls,All,SEN Supp,All,All,State-funded mainstream,Church of England,22.1,%,1395,308
+All,All,All,SEN State EHC,All,All,State-funded mainstream,Church of England,14.1,%,632,89
+All,All,All,No SEN,All,All,State-funded mainstream,Church of England,57.1,%,26852,15335
+All,Boys,Non-FSM,All,All,All,State-funded mainstream,Church of England,52.2,%,13413,7006
+All,Girls,Non-FSM,All,All,All,State-funded mainstream,Church of England,59.4,%,12931,7677
+All,All,FSM,All,All,All,State-funded mainstream,Church of England,31.1,%,4573,1424
+All,Boys,FSM,All,All,All,State-funded mainstream,Church of England,26.3,%,2262,594
+All,All,Non-FSM,All,All,All,State-funded mainstream,Church of England,55.7,%,26344,14683
+All,Girls,FSM,All,All,All,State-funded mainstream,Church of England,35.9,%,2311,830
+All,Boys,All,All,All,All,State-funded mainstream,Church of England,48.5,%,15675,7600
+All,All,All,All,All,All,State-funded mainstream,Church of England,52.1,%,30917,16107
+All,Girls,All,All,All,All,State-funded mainstream,Church of England,55.8,%,15242,8507
+All,Girls,All,All,All,All,All state-funded,Church of England,55.8,%,15242,8507
+All,Boys,All,All,All,All,All state-funded,Church of England,48.5,%,15675,7600
+All,All,All,All,All,All,All state-funded,Church of England,52.1,%,30917,16107
+All,All,All,All,Any SEN,All,State-funded mainstream,Church of England,19,%,4065,772
+All,Boys,All,SEN Supp,All,All,State-funded mainstream,Church of England,18.4,%,2038,375
+All,Girls,All,No SEN,All,All,State-funded mainstream,Church of England,59.8,%,13665,8177
+Asian,Girls,All,All,All,All,State-funded mainstream,Church of England,64.4,%,1215,783
+Asian,Boys,All,All,All,All,State-funded mainstream,Church of England,59.7,%,1471,878
+Asian,All,All,All,All,All,State-funded mainstream,Church of England,61.8,%,2686,1661
+Black,Boys,All,All,All,All,State-funded mainstream,Church of England,42,%,1311,551
+Black,Girls,All,All,All,All,State-funded mainstream,Church of England,53.5,%,1494,800
+Black,All,All,All,All,All,State-funded mainstream,Church of England,48.2,%,2805,1351
+Chinese,All,All,All,All,All,Academies and free schools,All,81.1,%,1489,1208
+Chinese,Boys,All,All,All,All,Academies and free schools,All,77,%,732,564
+Chinese,Girls,All,All,All,All,Academies and free schools,All,85.1,%,757,644
+Mixed,Girls,All,All,All,All,State-funded mainstream,Church of England,55.9,%,911,509
+Mixed,Boys,All,All,All,All,State-funded mainstream,Church of England,46.5,%,839,390
+Mixed,All,All,All,All,All,State-funded mainstream,Church of England,51.4,%,1750,899
+Other,Boys,All,All,All,All,State-funded mainstream,Church of England,50.3,%,336,169
+Other,Girls,All,All,All,All,State-funded mainstream,Church of England,62.9,%,353,222
+Other,All,All,All,All,All,State-funded mainstream,Church of England,56.7,%,689,391
+Unknown,Girls,All,All,All,All,State-funded mainstream,Church of England,52.2,%,251,131
+Unknown,Boys,All,All,All,All,State-funded mainstream,Church of England,37.1,%,361,134
+Unknown,All,All,All,All,All,State-funded mainstream,Church of England,43.3,%,612,265
+White,Boys,All,All,All,All,State-funded mainstream,Church of England,48,%,11275,5411
+White,Girls,All,All,All,All,State-funded mainstream,Church of England,54.8,%,10942,5997
+White,All,All,All,All,All,State-funded mainstream,Church of England,51.3,%,22217,11408
+All,Boys,All,All,No identified SEN,All,State-funded mainstream,Hindu,!,%,98,!
+All,Girls,All,All,No identified SEN,All,State-funded mainstream,Hindu,!,%,72,!
+All,Boys,All,All,Any SEN,All,State-funded mainstream,Hindu,!,%,3,!
+All,Boys,All,No SEN,All,All,State-funded mainstream,Hindu,!,%,98,!
+All,Boys,All,SEN State EHC,All,All,State-funded mainstream,Hindu,!,%,1,!
+All,Girls,All,No SEN,All,All,State-funded mainstream,Hindu,!,%,72,!
+All,All,All,SEN State EHC,All,All,State-funded mainstream,Hindu,!,%,1,!
+All,All,All,SEN Supp,All,All,State-funded mainstream,Hindu,!,%,2,!
+All,All,All,No SEN,All,All,State-funded mainstream,Hindu,!,%,170,!
+All,Boys,FSM,All,All,All,State-funded mainstream,Hindu,!,%,6,!
+All,Girls,FSM,All,All,All,State-funded mainstream,Hindu,!,%,5,!
+All,Girls,Non-FSM,All,All,All,State-funded mainstream,Hindu,!,%,67,!
+All,All,Non-FSM,All,All,All,State-funded mainstream,Hindu,!,%,162,!
+All,Boys,Non-FSM,All,All,All,State-funded mainstream,Hindu,!,%,95,!
+All,All,FSM,All,All,All,State-funded mainstream,Hindu,!,%,11,!
+All,All,All,All,All,All,State-funded mainstream,Hindu,!,%,173,!
+All,Girls,All,All,All,All,State-funded mainstream,Hindu,!,%,72,!
+All,Boys,All,All,All,All,All state-funded,Hindu,!,%,101,!
+All,All,All,All,All,All,All state-funded,Hindu,!,%,173,!
+All,Girls,All,All,All,All,All state-funded,Hindu,!,%,72,!
+All,All,All,All,No identified SEN,All,State-funded mainstream,Hindu,!,%,170,!
+All,All,All,All,Any SEN,All,State-funded mainstream,Hindu,!,%,3,!
+All,Boys,All,SEN Supp,All,All,State-funded mainstream,Hindu,!,%,2,!
+All,Boys,All,All,All,All,State-funded mainstream,Hindu,!,%,101,!
+Asian,Girls,All,All,All,All,State-funded mainstream,Hindu,!,%,66,!
+Asian,Boys,All,All,All,All,State-funded mainstream,Hindu,!,%,74,!
+Asian,All,All,All,All,All,State-funded mainstream,Hindu,!,%,140,!
+Black,Boys,All,All,All,All,State-funded mainstream,Hindu,!,%,4,!
+Black,All,All,All,All,All,State-funded mainstream,Hindu,!,%,4,!
+Mixed,Boys,All,All,All,All,State-funded mainstream,Hindu,!,%,16,!
+Mixed,Girls,All,All,All,All,State-funded mainstream,Hindu,!,%,4,!
+Mixed,All,All,All,All,All,State-funded mainstream,Hindu,!,%,20,!
+Other,Boys,All,All,All,All,State-funded mainstream,Hindu,!,%,3,!
+Other,All,All,All,All,All,State-funded mainstream,Hindu,!,%,3,!
+White,Girls,All,All,All,All,State-funded mainstream,Hindu,!,%,2,!
+White,Boys,All,All,All,All,State-funded mainstream,Hindu,!,%,4,!
+White,All,All,All,All,All,State-funded mainstream,Hindu,!,%,6,!
+All,Boys,All,All,Any SEN,All,State-funded mainstream,Jewish,38.6,%,88,34
+All,Boys,All,All,No identified SEN,All,State-funded mainstream,Jewish,80.1,%,584,468
+All,Girls,All,All,No identified SEN,All,State-funded mainstream,Jewish,80.9,%,691,559
+All,All,All,All,No identified SEN,All,State-funded mainstream,Jewish,80.5,%,1275,1027
+All,Girls,All,SEN Supp,All,All,State-funded mainstream,Jewish,46.7,%,45,21
+All,Girls,All,No SEN,All,All,State-funded mainstream,Jewish,80.9,%,691,559
+All,Boys,All,No SEN,All,All,State-funded mainstream,Jewish,80.1,%,584,468
+All,Girls,All,All,Any SEN,All,State-funded mainstream,Jewish,40.3,%,62,25
+All,Girls,All,SEN State EHC,All,All,State-funded mainstream,Jewish,23.5,%,17,4
+All,Boys,All,SEN State EHC,All,All,State-funded mainstream,Jewish,39.1,%,23,9
+All,Boys,All,SEN Supp,All,All,State-funded mainstream,Jewish,38.5,%,65,25
+All,All,All,No SEN,All,All,State-funded mainstream,Jewish,80.5,%,1275,1027
+All,All,All,SEN Supp,All,All,State-funded mainstream,Jewish,41.8,%,110,46
+All,All,All,SEN State EHC,All,All,State-funded mainstream,Jewish,32.5,%,40,13
+All,Girls,FSM,All,All,All,State-funded mainstream,Jewish,54.5,%,33,18
+All,Boys,FSM,All,All,All,State-funded mainstream,Jewish,34.3,%,35,12
+All,Girls,Non-FSM,All,All,All,State-funded mainstream,Jewish,78.6,%,720,566
+All,Boys,Non-FSM,All,All,All,State-funded mainstream,Jewish,76.9,%,637,490
+All,All,FSM,All,All,All,State-funded mainstream,Jewish,44.1,%,68,30
+All,All,Non-FSM,All,All,All,State-funded mainstream,Jewish,77.8,%,1357,1056
+All,Boys,All,All,All,All,State-funded mainstream,Jewish,74.7,%,672,502
+All,All,All,All,All,All,State-funded mainstream,Jewish,76.2,%,1425,1086
+All,Girls,All,All,All,All,State-funded mainstream,Jewish,77.6,%,753,584
+All,Boys,All,All,All,All,All state-funded,Jewish,74.7,%,672,502
+All,All,All,All,All,All,All state-funded,Jewish,76.2,%,1425,1086
+All,Girls,All,All,All,All,All state-funded,Jewish,77.6,%,753,584
+All,All,All,All,Any SEN,All,State-funded mainstream,Jewish,39.3,%,150,59
+Asian,Boys,All,All,All,All,State-funded mainstream,Jewish,48.1,%,27,13
+Asian,Girls,All,All,All,All,State-funded mainstream,Jewish,67.5,%,40,27
+Asian,All,All,All,All,All,State-funded mainstream,Jewish,59.7,%,67,40
+Black,Girls,All,All,All,All,State-funded mainstream,Jewish,23.5,%,17,4
+Black,Boys,All,All,All,All,State-funded mainstream,Jewish,46.7,%,15,7
+Black,All,All,All,All,All,State-funded mainstream,Jewish,34.4,%,32,11
+All,All,All,All,All,All,All state-funded,All,49.9,%,561994,280417
+All,All,FSM,All,All,All,All state-funded,All,27.8,%,88666,24655
+Mixed,Boys,All,All,All,All,State-funded mainstream,Jewish,50,%,16,8
+Mixed,Girls,All,All,All,All,State-funded mainstream,Jewish,61.5,%,13,8
+Mixed,All,All,All,All,All,State-funded mainstream,Jewish,55.2,%,29,16
+Other,Girls,All,All,All,All,State-funded mainstream,Jewish,88.9,%,9,8
+Other,Boys,All,All,All,All,State-funded mainstream,Jewish,80,%,5,4
+Other,All,All,All,All,All,State-funded mainstream,Jewish,85.7,%,14,12
+Unknown,Boys,All,All,All,All,State-funded mainstream,Jewish,85.1,%,168,143
+Unknown,Girls,All,All,All,All,State-funded mainstream,Jewish,84.4,%,122,103
+Unknown,All,All,All,All,All,State-funded mainstream,Jewish,84.8,%,290,246
+White,Boys,All,All,All,All,State-funded mainstream,Jewish,74,%,439,325
+White,Girls,All,All,All,All,State-funded mainstream,Jewish,78.6,%,551,433
+White,All,All,All,All,All,State-funded mainstream,Jewish,76.6,%,990,758
+All,Girls,All,All,No identified SEN,All,State-funded mainstream,Muslim,80.1,%,752,602
+All,Boys,All,All,Any SEN,All,State-funded mainstream,Muslim,33.3,%,57,19
+All,Girls,All,All,Any SEN,All,State-funded mainstream,Muslim,28.6,%,98,28
+All,Boys,All,All,No identified SEN,All,State-funded mainstream,Muslim,82.5,%,440,363
+All,Girls,All,No SEN,All,All,State-funded mainstream,Muslim,80.1,%,752,602
+All,Boys,All,SEN State EHC,All,All,State-funded mainstream,Muslim,25,%,4,1
+All,Boys,All,SEN Supp,All,All,State-funded mainstream,Muslim,34,%,53,18
+All,All,All,No SEN,All,All,State-funded mainstream,Muslim,81,%,1192,965
+All,Girls,All,SEN Supp,All,All,State-funded mainstream,Muslim,28.6,%,91,26
+All,Girls,All,SEN State EHC,All,All,State-funded mainstream,Muslim,28.6,%,7,2
+All,All,All,SEN Supp,All,All,State-funded mainstream,Muslim,30.6,%,144,44
+All,All,All,SEN State EHC,All,All,State-funded mainstream,Muslim,27.3,%,11,3
+All,Boys,All,No SEN,All,All,State-funded mainstream,Muslim,82.5,%,440,363
+All,Girls,Non-FSM,All,All,All,State-funded mainstream,Muslim,75.9,%,684,519
+All,Boys,FSM,All,All,All,State-funded mainstream,Muslim,74,%,77,57
+All,Girls,FSM,All,All,All,State-funded mainstream,Muslim,66.9,%,166,111
+All,All,FSM,All,All,All,State-funded mainstream,Muslim,69.1,%,243,168
+All,All,Non-FSM,All,All,All,State-funded mainstream,Muslim,76.4,%,1104,844
+All,Boys,Non-FSM,All,All,All,State-funded mainstream,Muslim,77.4,%,420,325
+All,All,All,All,All,All,State-funded mainstream,Muslim,75.1,%,1347,1012
+All,Girls,All,All,All,All,All state-funded,Muslim,74.1,%,850,630
+All,All,All,All,All,All,All state-funded,Muslim,75.1,%,1347,1012
+All,Boys,All,All,All,All,All state-funded,Muslim,76.9,%,497,382
+All,All,All,All,No identified SEN,All,State-funded mainstream,Muslim,81,%,1192,965
+All,All,All,All,Any SEN,All,State-funded mainstream,Muslim,30.3,%,155,47
+All,Girls,All,All,All,All,State-funded mainstream,Muslim,74.1,%,850,630
+All,Boys,All,All,All,All,State-funded mainstream,Muslim,76.9,%,497,382
+Asian,Boys,All,All,All,All,State-funded mainstream,Muslim,77.9,%,425,331
+Asian,Girls,All,All,All,All,State-funded mainstream,Muslim,74.5,%,702,523
+Asian,All,All,All,All,All,State-funded mainstream,Muslim,75.8,%,1127,854
+Black,Boys,All,All,All,All,State-funded mainstream,Muslim,80.6,%,31,25
+Black,Girls,All,All,All,All,State-funded mainstream,Muslim,71.1,%,83,59
+Black,All,All,All,All,All,State-funded mainstream,Muslim,73.7,%,114,84
+Mixed,Boys,All,All,All,All,State-funded mainstream,Muslim,64.7,%,17,11
+Mixed,Girls,All,All,All,All,State-funded mainstream,Muslim,76.2,%,21,16
+Mixed,All,All,All,All,All,State-funded mainstream,Muslim,71.1,%,38,27
+Other,Girls,All,All,All,All,State-funded mainstream,Muslim,71.4,%,28,20
+Other,Boys,All,All,All,All,State-funded mainstream,Muslim,66.7,%,12,8
+Other,All,All,All,All,All,State-funded mainstream,Muslim,70,%,40,28
+Unknown,Girls,All,All,All,All,State-funded mainstream,Muslim,80,%,10,8
+Unknown,Boys,All,All,All,All,State-funded mainstream,Muslim,44.4,%,9,4
+Unknown,All,All,All,All,All,State-funded mainstream,Muslim,63.2,%,19,12
+White,Girls,All,All,All,All,State-funded mainstream,Muslim,66.7,%,6,4
+White,Boys,All,All,All,All,State-funded mainstream,Muslim,100,%,2,2
+White,All,All,All,All,All,State-funded mainstream,Muslim,75,%,8,6
+All,Boys,All,All,No identified SEN,All,State-funded mainstream,No religious character,52,%,192845,100322
+All,All,All,All,Any SEN,All,State-funded mainstream,No religious character,18.9,%,58897,11156
+All,Girls,All,All,Any SEN,All,State-funded mainstream,No religious character,21.8,%,22420,4884
+All,Girls,All,All,No identified SEN,All,State-funded mainstream,No religious character,57.8,%,200191,115763
+All,Boys,All,No SEN,All,All,State-funded mainstream,No religious character,52,%,192845,100322
+All,Boys,All,SEN Supp,All,All,State-funded mainstream,No religious character,18.2,%,30168,5500
+All,Boys,All,SEN State EHC,All,All,State-funded mainstream,No religious character,12.2,%,6309,772
+All,Girls,All,No SEN,All,All,State-funded mainstream,No religious character,57.8,%,200191,115763
+All,Boys,All,All,Any SEN,All,State-funded mainstream,No religious character,17.2,%,36477,6272
+All,Girls,All,SEN Supp,All,All,State-funded mainstream,No religious character,23.1,%,19967,4603
+All,All,All,SEN State EHC,All,All,State-funded mainstream,No religious character,12,%,8762,1053
+All,All,All,No SEN,All,All,State-funded mainstream,No religious character,55,%,393036,216085
+All,All,All,SEN Supp,All,All,State-funded mainstream,No religious character,20.2,%,50135,10103
+All,Boys,Non-FSM,All,All,All,State-funded mainstream,No religious character,50.2,%,194535,97568
+All,Girls,Non-FSM,All,All,All,State-funded mainstream,No religious character,58.4,%,187421,109516
+All,Boys,FSM,All,All,All,State-funded mainstream,No religious character,25.9,%,34787,9026
+All,All,FSM,All,All,All,State-funded mainstream,No religious character,28.8,%,69977,20157
+All,Girls,FSM,All,All,All,State-funded mainstream,No religious character,31.6,%,35190,11131
+All,All,Non-FSM,All,All,All,State-funded mainstream,No religious character,54.2,%,381956,207084
+All,All,All,All,All,All,State-funded mainstream,No religious character,50.3,%,451933,227241
+All,Boys,All,All,All,All,State-funded mainstream,No religious character,46.5,%,229322,106594
+All,Boys,All,All,All,All,All state-funded,No religious character,44.9,%,237537,106682
+All,Girls,All,All,All,All,All state-funded,No religious character,53.5,%,225743,120666
+All,All,All,All,All,All,All state-funded,No religious character,49.1,%,463280,227348
+All,All,All,All,No identified SEN,All,State-funded mainstream,No religious character,55,%,393036,216085
+All,Girls,All,SEN State EHC,All,All,State-funded mainstream,No religious character,11.5,%,2453,281
+All,Girls,All,All,All,All,State-funded mainstream,No religious character,54.2,%,222611,120647
+Asian,Boys,All,All,All,All,State-funded mainstream,No religious character,54.5,%,25469,13887
+Asian,Girls,All,All,All,All,State-funded mainstream,No religious character,61,%,24762,15113
+Asian,All,All,All,All,All,State-funded mainstream,No religious character,57.7,%,50231,29000
+Black,Girls,All,All,All,All,State-funded mainstream,No religious character,51,%,11214,5720
+Black,Boys,All,All,All,All,State-funded mainstream,No religious character,39.7,%,11434,4538
+Black,All,All,All,All,All,State-funded mainstream,No religious character,45.3,%,22648,10258
+All,All,Non-FSM,All,All,All,All state-funded,All,54,%,473328,255762
+All,All,All,All,Any SEN,All,All state-funded,All,16.8,%,82093,13761
+Mixed,Boys,All,All,All,All,State-funded mainstream,No religious character,46.5,%,11618,5398
+Mixed,Girls,All,All,All,All,State-funded mainstream,No religious character,54,%,11508,6216
+Mixed,All,All,All,All,All,State-funded mainstream,No religious character,50.2,%,23126,11614
+Other,Boys,All,All,All,All,State-funded mainstream,No religious character,43.8,%,4176,1831
+Other,Girls,All,All,All,All,State-funded mainstream,No religious character,54.4,%,3914,2129
+Other,All,All,All,All,All,State-funded mainstream,No religious character,48.9,%,8090,3960
+Unknown,Girls,All,All,All,All,State-funded mainstream,No religious character,47.1,%,2860,1346
+Unknown,Boys,All,All,All,All,State-funded mainstream,No religious character,40.9,%,3154,1289
+Unknown,All,All,All,All,All,State-funded mainstream,No religious character,43.8,%,6014,2635
+White,Boys,All,All,All,All,State-funded mainstream,No religious character,45.8,%,172702,79077
+White,Girls,All,All,All,All,State-funded mainstream,No religious character,53.4,%,167567,89460
+White,All,All,All,All,All,State-funded mainstream,No religious character,49.5,%,340269,168537
+All,All,All,All,No identified SEN,All,State-funded mainstream,Other Christian faith,61.4,%,8970,5504
+All,Girls,All,All,Any SEN,All,State-funded mainstream,Other Christian faith,24.6,%,439,108
+All,Girls,All,All,No identified SEN,All,State-funded mainstream,Other Christian faith,61.7,%,4274,2637
+All,Boys,All,No SEN,All,All,State-funded mainstream,Other Christian faith,61.1,%,4696,2867
+All,Girls,All,SEN Supp,All,All,State-funded mainstream,Other Christian faith,25.9,%,386,100
+All,Boys,All,SEN State EHC,All,All,State-funded mainstream,Other Christian faith,16.2,%,142,23
+All,Girls,All,No SEN,All,All,State-funded mainstream,Other Christian faith,61.7,%,4274,2637
+All,Boys,All,SEN Supp,All,All,State-funded mainstream,Other Christian faith,28.9,%,626,181
+All,All,All,SEN Supp,All,All,State-funded mainstream,Other Christian faith,27.8,%,1012,281
+All,All,All,No SEN,All,All,State-funded mainstream,Other Christian faith,61.4,%,8970,5504
+All,All,All,SEN State EHC,All,All,State-funded mainstream,Other Christian faith,15.9,%,195,31
+All,Girls,FSM,All,All,All,State-funded mainstream,Other Christian faith,34.4,%,820,282
+All,Girls,Non-FSM,All,All,All,State-funded mainstream,Other Christian faith,63.3,%,3893,2463
+All,Boys,Non-FSM,All,All,All,State-funded mainstream,Other Christian faith,61.3,%,4592,2814
+All,All,FSM,All,All,All,State-funded mainstream,Other Christian faith,31.9,%,1692,539
+All,Boys,FSM,All,All,All,State-funded mainstream,Other Christian faith,29.5,%,872,257
+All,All,Non-FSM,All,All,All,State-funded mainstream,Other Christian faith,62.2,%,8485,5277
+All,Boys,All,All,All,All,State-funded mainstream,Other Christian faith,56.2,%,5464,3071
+All,All,All,All,All,All,State-funded mainstream,Other Christian faith,57.1,%,10177,5816
+All,Boys,All,All,All,All,All state-funded,Other Christian faith,56.1,%,5472,3072
+All,All,All,All,All,All,All state-funded,Other Christian faith,57.1,%,10185,5817
+All,Girls,All,All,All,All,All state-funded,Other Christian faith,58.2,%,4713,2745
+All,Boys,All,All,Any SEN,All,State-funded mainstream,Other Christian faith,26.6,%,768,204
+All,Boys,All,All,No identified SEN,All,State-funded mainstream,Other Christian faith,61.1,%,4696,2867
+All,All,All,All,Any SEN,All,State-funded mainstream,Other Christian faith,25.8,%,1207,312
+All,Girls,All,SEN State EHC,All,All,State-funded mainstream,Other Christian faith,15.1,%,53,8
+All,Girls,All,All,All,All,State-funded mainstream,Other Christian faith,58.2,%,4713,2745
+Asian,Boys,All,All,All,All,State-funded mainstream,Other Christian faith,78.4,%,696,546
+Asian,Girls,All,All,All,All,State-funded mainstream,Other Christian faith,82.6,%,438,362
+Asian,All,All,All,All,All,State-funded mainstream,Other Christian faith,80.1,%,1134,908
+Black,Girls,All,All,All,All,State-funded mainstream,Other Christian faith,54.8,%,299,164
+Black,Boys,All,All,All,All,State-funded mainstream,Other Christian faith,48.5,%,369,179
+Black,All,All,All,All,All,State-funded mainstream,Other Christian faith,51.3,%,668,343
+Mixed,Boys,All,All,All,All,State-funded mainstream,Other Christian faith,64.9,%,336,218
+Mixed,Girls,All,All,All,All,State-funded mainstream,Other Christian faith,65.5,%,281,184
+Mixed,All,All,All,All,All,State-funded mainstream,Other Christian faith,65.2,%,617,402
+Other,Girls,All,All,All,All,State-funded mainstream,Other Christian faith,55.9,%,111,62
+Other,Boys,All,All,All,All,State-funded mainstream,Other Christian faith,50.8,%,181,92
+Other,All,All,All,All,All,State-funded mainstream,Other Christian faith,52.7,%,292,154
+Unknown,Boys,All,All,All,All,State-funded mainstream,Other Christian faith,57.1,%,77,44
+Unknown,Girls,All,All,All,All,State-funded mainstream,Other Christian faith,55.9,%,68,38
+Unknown,All,All,All,All,All,State-funded mainstream,Other Christian faith,56.6,%,145,82
+White,Boys,All,All,All,All,State-funded mainstream,Other Christian faith,51.9,%,3766,1955
+White,Girls,All,All,All,All,State-funded mainstream,Other Christian faith,54.7,%,3486,1908
+White,All,All,All,All,All,State-funded mainstream,Other Christian faith,53.3,%,7252,3863
+All,Girls,All,All,No identified SEN,All,State-funded mainstream,Roman catholic,61.3,%,24336,14906
+All,Boys,All,All,No identified SEN,All,State-funded mainstream,Roman catholic,56.4,%,21745,12261
+All,Girls,All,No SEN,All,All,State-funded mainstream,Roman catholic,61.3,%,24336,14906
+All,Girls,All,All,Any SEN,All,State-funded mainstream,Roman catholic,23.1,%,2507,579
+All,Boys,All,No SEN,All,All,State-funded mainstream,Roman catholic,56.4,%,21745,12261
+All,Boys,All,SEN Supp,All,All,State-funded mainstream,Roman catholic,20.5,%,3023,620
+All,All,All,SEN Supp,All,All,State-funded mainstream,Roman catholic,22.3,%,5258,1173
+All,Girls,All,SEN Supp,All,All,State-funded mainstream,Roman catholic,24.7,%,2235,553
+All,Girls,All,SEN State EHC,All,All,State-funded mainstream,Roman catholic,9.6,%,272,26
+All,Boys,All,SEN State EHC,All,All,State-funded mainstream,Roman catholic,14.8,%,667,99
+All,All,All,SEN State EHC,All,All,State-funded mainstream,Roman catholic,13.3,%,939,125
+All,All,All,No SEN,All,All,State-funded mainstream,Roman catholic,59,%,46081,27167
+All,Boys,FSM,All,All,All,State-funded mainstream,Roman catholic,28.4,%,3429,974
+All,Girls,Non-FSM,All,All,All,State-funded mainstream,Roman catholic,61.6,%,23040,14183
+All,Boys,Non-FSM,All,All,All,State-funded mainstream,Roman catholic,54.6,%,22006,12006
+All,All,FSM,All,All,All,State-funded mainstream,Roman catholic,31.5,%,7232,2276
+All,Girls,FSM,All,All,All,State-funded mainstream,Roman catholic,34.2,%,3803,1302
+All,All,All,All,All,All,State-funded mainstream,Roman catholic,54.4,%,52278,28465
+All,Boys,All,All,All,All,All state-funded,Roman catholic,51,%,25435,12980
+All,Girls,All,All,All,All,All state-funded,Roman catholic,57.7,%,26843,15485
+All,All,All,All,All,All,All state-funded,Roman catholic,54.4,%,52278,28465
+All,All,All,All,No identified SEN,All,State-funded mainstream,Roman catholic,59,%,46081,27167
+All,All,All,All,Any SEN,All,State-funded mainstream,Roman catholic,20.9,%,6197,1298
+All,Boys,All,All,Any SEN,All,State-funded mainstream,Roman catholic,19.5,%,3690,719
+All,All,Non-FSM,All,All,All,State-funded mainstream,Roman catholic,58.1,%,45046,26189
+All,Girls,All,All,All,All,State-funded mainstream,Roman catholic,57.7,%,26843,15485
+All,Boys,All,All,All,All,State-funded mainstream,Roman catholic,51,%,25435,12980
+Asian,Girls,All,All,All,All,State-funded mainstream,Roman catholic,66,%,2179,1439
+Asian,Boys,All,All,All,All,State-funded mainstream,Roman catholic,58.9,%,2197,1295
+Asian,All,All,All,All,All,State-funded mainstream,Roman catholic,62.5,%,4376,2734
+Black,Girls,All,All,All,All,State-funded mainstream,Roman catholic,56.4,%,3231,1823
+Black,Boys,All,All,All,All,State-funded mainstream,Roman catholic,45.8,%,2767,1267
+Black,All,All,All,All,All,State-funded mainstream,Roman catholic,51.5,%,5998,3090
+All,All,All,All,No identified SEN,All,All state-funded,All,55.8,%,477952,266475
+Asian,All,FSM,All,All,All,All state-funded,All,43.4,%,10443,4528
+Mixed,Girls,All,All,All,All,State-funded mainstream,Roman catholic,58.6,%,1765,1035
+Mixed,Boys,All,All,All,All,State-funded mainstream,Roman catholic,51.2,%,1536,786
+Mixed,All,All,All,All,All,State-funded mainstream,Roman catholic,55.2,%,3301,1821
+Other,Boys,All,All,All,All,State-funded mainstream,Roman catholic,61.2,%,585,358
+Other,Girls,All,All,All,All,State-funded mainstream,Roman catholic,63.3,%,599,379
+Other,All,All,All,All,All,State-funded mainstream,Roman catholic,62.2,%,1184,737
+Unknown,Boys,All,All,All,All,State-funded mainstream,Roman catholic,46.8,%,218,102
+Unknown,Girls,All,All,All,All,State-funded mainstream,Roman catholic,54.5,%,246,134
+Unknown,All,All,All,All,All,State-funded mainstream,Roman catholic,50.9,%,464,236
+White,Boys,All,All,All,All,State-funded mainstream,Roman catholic,50.5,%,18080,9134
+White,Girls,All,All,All,All,State-funded mainstream,Roman catholic,56.6,%,18719,10590
+White,All,All,All,All,All,State-funded mainstream,Roman catholic,53.6,%,36799,19724
+All,Girls,All,All,Any SEN,All,State-funded mainstream,Sikh,26.7,%,15,4
+All,Girls,All,All,No identified SEN,All,State-funded mainstream,Sikh,69.5,%,174,121
+All,All,All,All,No identified SEN,All,State-funded mainstream,Sikh,68.6,%,373,256
+All,Boys,All,All,No identified SEN,All,State-funded mainstream,Sikh,67.8,%,199,135
+All,Girls,All,No SEN,All,All,State-funded mainstream,Sikh,69.5,%,174,121
+All,Girls,All,SEN State EHC,All,All,State-funded mainstream,Sikh,!,%,1,!
+All,Boys,All,No SEN,All,All,State-funded mainstream,Sikh,67.8,%,199,135
+All,Boys,All,SEN State EHC,All,All,State-funded mainstream,Sikh,0,%,6,0
+All,Boys,All,All,Any SEN,All,State-funded mainstream,Sikh,20,%,25,5
+All,Boys,All,SEN Supp,All,All,State-funded mainstream,Sikh,26.3,%,19,5
+All,All,All,SEN Supp,All,All,State-funded mainstream,Sikh,24.2,%,33,8
+All,All,All,SEN State EHC,All,All,State-funded mainstream,Sikh,14.3,%,7,1
+All,All,All,No SEN,All,All,State-funded mainstream,Sikh,68.6,%,373,256
+All,Girls,All,SEN Supp,All,All,State-funded mainstream,Sikh,21.4,%,14,3
+All,Girls,Non-FSM,All,All,All,State-funded mainstream,Sikh,67.1,%,170,114
+All,Boys,Non-FSM,All,All,All,State-funded mainstream,Sikh,65,%,200,130
+All,Girls,FSM,All,All,All,State-funded mainstream,Sikh,57.9,%,19,11
+All,All,Non-FSM,All,All,All,State-funded mainstream,Sikh,65.9,%,370,244
+All,All,FSM,All,All,All,State-funded mainstream,Sikh,48.8,%,43,21
+All,Boys,FSM,All,All,All,State-funded mainstream,Sikh,41.7,%,24,10
+All,Boys,All,All,All,All,State-funded mainstream,Sikh,62.5,%,224,140
+All,All,All,All,All,All,State-funded mainstream,Sikh,64.2,%,413,265
+All,Girls,All,All,All,All,All state-funded,Sikh,66.1,%,189,125
+All,All,All,All,All,All,All state-funded,Sikh,64.2,%,413,265
+All,Boys,All,All,All,All,All state-funded,Sikh,62.5,%,224,140
+All,All,All,All,Any SEN,All,State-funded mainstream,Sikh,22.5,%,40,9
+All,Girls,All,All,All,All,State-funded mainstream,Sikh,66.1,%,189,125
+Asian,Boys,All,All,All,All,State-funded mainstream,Sikh,67,%,179,120
+Asian,Girls,All,All,All,All,State-funded mainstream,Sikh,68.6,%,159,109
+Asian,All,All,All,All,All,State-funded mainstream,Sikh,67.8,%,338,229
+Black,Girls,All,All,All,All,State-funded mainstream,Sikh,!,%,2,!
+Black,Boys,All,All,All,All,State-funded mainstream,Sikh,25,%,4,1
+Black,All,All,All,All,All,State-funded mainstream,Sikh,16.7,%,6,1
+Mixed,Girls,All,All,All,All,State-funded mainstream,Sikh,50,%,6,3
+Mixed,Boys,All,All,All,All,State-funded mainstream,Sikh,27.3,%,11,3
+Mixed,All,All,All,All,All,State-funded mainstream,Sikh,35.3,%,17,6
+Other,Girls,All,All,All,All,State-funded mainstream,Sikh,!,%,17,!
+Other,Boys,All,All,All,All,State-funded mainstream,Sikh,57.7,%,26,15
+Other,All,All,All,All,All,State-funded mainstream,Sikh,62.8,%,43,27
+Unknown,Boys,All,All,All,All,State-funded mainstream,Sikh,!,%,2,!
+Unknown,Girls,All,All,All,All,State-funded mainstream,Sikh,!,%,1,!
+Unknown,All,All,All,All,All,State-funded mainstream,Sikh,!,%,3,!
+White,Girls,All,All,All,All,State-funded mainstream,Sikh,25,%,4,1
+White,Boys,All,All,All,All,State-funded mainstream,Sikh,0,%,2,0
+White,All,All,All,All,All,State-funded mainstream,Sikh,16.7,%,6,1
+All,All,All,All,No identified SEN,All,Academies and free schools,All,56.2,%,362887,204116
+All,All,All,All,Any SEN,All,Academies and free schools,All,19.8,%,53415,10566
+All,Girls,All,SEN Supp,All,All,Academies and free schools,All,23.6,%,18080,4274
+All,Girls,All,No SEN,All,All,Academies and free schools,All,59,%,184890,109104
+All,Girls,All,All,No identified SEN,All,Academies and free schools,All,59,%,184890,109104
+All,Girls,All,SEN State EHC,All,All,Academies and free schools,All,12.6,%,2183,274
+All,Boys,All,All,All,selective schools,Academies and free schools,All,95.3,%,10866,10353
+All,Boys,All,SEN Supp,All,All,Academies and free schools,All,19.2,%,27379,5254
+All,All,All,SEN Supp,All,All,Academies and free schools,All,21,%,45459,9528
+All,Boys,All,All,Any SEN,All,Academies and free schools,All,18.2,%,33152,6018
+All,All,All,SEN State EHC,All,All,Academies and free schools,All,13,%,7956,1038
+All,Boys,All,All,No identified SEN,All,Academies and free schools,All,53.4,%,177997,95012
+All,Boys,FSM,All,All,All,Academies and free schools,All,26.5,%,31145,8255
+All,All,FSM,All,All,All,Academies and free schools,All,29.4,%,62516,18373
+All,All,Non-FSM,All,All,All,Academies and free schools,All,55.5,%,353786,196309
+All,Boys,All,SEN State EHC,All,All,Academies and free schools,All,13.2,%,5773,764
+All,Girls,All,All,Any SEN,All,Academies and free schools,All,22.4,%,20263,4548
+All,Boys,All,All,All,All,Academies and free schools,All,47.8,%,211149,101030
+All,Boys,All,No SEN,All,All,Academies and free schools,All,53.4,%,177997,95012
+All,Girls,Non-FSM,All,All,All,Academies and free schools,All,59.6,%,173782,103534
+All,All,All,All,All,All,Academies and free schools,All,51.6,%,416302,214682
+All,Boys,Non-FSM,All,All,All,Academies and free schools,All,51.5,%,180004,92775
+All,All,All,No SEN,All,All,Academies and free schools,All,56.2,%,362887,204116
+All,Girls,All,All,All,All,Academies and free schools,All,55.4,%,205153,113652
+All,Girls,FSM,All,All,All,Academies and free schools,All,32.3,%,31371,10118
+All,Girls,All,All,All,non-selective schools in other areas,University Technical Colleges (UTCs),All,44.8,%,982,440
+All,Girls,All,All,All,non-selective schools in highly selective areas,Sponsored Academies,All,37.8,%,4624,1746
+All,Boys,All,All,All,non-selective schools in highly selective areas,University Technical Colleges (UTCs),All,26.6,%,154,41
+All,Boys,All,All,All,non-selective schools in other areas,Studio Schools,All,31,%,612,190
+All,Boys,All,All,All,selective schools,Converter Academies,All,95.3,%,10866,10353
+All,Girls,All,All,All,non-selective schools in other areas,Studio Schools,All,37.2,%,540,201
+All,Girls,All,All,All,non-selective schools in highly selective areas,Converter Academies,All,45.9,%,9298,4265
+All,Girls,All,All,All,non-selective schools in other areas,Converter Academies,All,57.5,%,123258,70832
+All,Girls,All,All,All,non-selective schools in other areas,Free Schools,All,56.6,%,4760,2693
+All,Boys,All,All,All,non-selective schools in other areas,Converter Academies,All,49.6,%,123097,61046
+All,Girls,All,All,All,non-selective schools in highly selective areas,Free Schools,All,59.3,%,428,254
+All,Girls,All,All,All,selective schools,Converter Academies,All,97,%,10941,10618
+All,Girls,All,All,All,non-selective schools in highly selective areas,University Technical Colleges (UTCs),All,30.6,%,49,15
+All,All,All,All,All,non-selective schools in other areas,Converter Academies,All,53.5,%,246355,131878
+All,All,All,All,All,non-selective schools in other areas,Free Schools,All,54.5,%,10464,5700
+All,All,All,All,All,non-selective schools in other areas,Sponsored Academies,All,41.1,%,104289,42865
+All,All,All,All,All,non-selective schools in highly selective areas,University Technical Colleges (UTCs),All,27.6,%,203,56
+All,Boys,All,All,All,non-selective schools in other areas,University Technical Colleges (UTCs),All,36.9,%,2332,860
+All,Girls,All,All,All,non-selective schools in other areas,Sponsored Academies,All,44.9,%,50273,22588
+All,Boys,All,All,All,non-selective schools in highly selective areas,Converter Academies,All,39.3,%,9083,3570
+All,Boys,All,All,All,non-selective schools in highly selective areas,Sponsored Academies,All,30.8,%,4888,1507
+All,All,All,All,All,non-selective schools in highly selective areas,Sponsored Academies,All,34.2,%,9512,3253
+All,All,All,All,All,non-selective schools in highly selective areas,Free Schools,All,52.5,%,825,433
+All,Boys,All,All,All,non-selective schools in other areas,Sponsored Academies,All,37.5,%,54016,20277
+All,All,All,All,All,non-selective schools in other areas,Studio Schools,All,33.9,%,1152,391
+All,All,All,All,All,non-selective schools in highly selective areas,Converter Academies,All,42.6,%,18381,7835
+All,Boys,All,All,All,non-selective schools in other areas,Free Schools,All,52.7,%,5704,3007
+All,Boys,All,All,All,non-selective schools in highly selective areas,Free Schools,All,45.1,%,397,179
+All,Girls,All,All,All,non-selective schools in highly selective areas,Academies and free schools,All,43.6,%,14399,6280
+All,All,All,All,All,non-selective schools in highly selective areas,Academies and free schools,All,40,%,28921,11577
+All,All,All,All,All,selective schools,Academies and free schools,All,96.2,%,21807,20971
+All,Girls,All,All,All,selective schools,Academies and free schools,All,97,%,10941,10618
+All,Boys,All,All,All,non-selective schools in highly selective areas,Academies and free schools,All,36.5,%,14522,5297
+All,Boys,All,All,All,non-selective schools in other areas,Academies and free schools,All,46,%,185761,85380
+All,All,All,All,All,non-selective schools in other areas,Academies and free schools,All,49.8,%,365574,182134
+All,Girls,All,All,All,non-selective schools in other areas,Academies and free schools,All,53.8,%,179813,96754
+All,All,All,All,All,non-selective schools in other areas,University Technical Colleges (UTCs),All,39.2,%,3314,1300
+All,All,All,All,All,selective schools,Converter Academies,All,96.2,%,21807,20971
+All,Girls,All,No SEN,All,All,Studio Schools,All,42.1,%,428,180
+All,All,All,No SEN,All,All,Free Schools,All,59.3,%,9756,5781
+All,Girls,All,No SEN,All,All,Converter Academies,All,63.2,%,130266,82277
+All,Boys,All,SEN State EHC,All,All,Sponsored Academies,All,10,%,1805,181
+All,All,All,SEN State EHC,All,All,Sponsored Academies,All,9.6,%,2426,232
+All,All,All,SEN Supp,All,All,Converter Academies,All,24.1,%,28857,6960
+All,All,All,SEN State EHC,All,All,Converter Academies,All,14.5,%,5221,755
+All,Girls,All,SEN Supp,All,All,Free Schools,All,23.7,%,519,123
+All,All,All,SEN State EHC,All,All,Studio Schools,All,16,%,25,4
+All,All,All,SEN Supp,All,All,FE 14-16 Colleges,All,0,%,22,0
+All,Boys,All,SEN State EHC,All,All,University Technical Colleges (UTCs),All,19.3,%,57,11
+All,All,All,SEN Supp,All,All,University Technical Colleges (UTCs),All,23.2,%,655,152
+All,All,All,No SEN,All,All,Studio Schools,All,39.3,%,887,349
+All,All,All,SEN Supp,All,All,Studio Schools,All,15.8,%,240,38
+All,All,All,SEN State EHC,All,All,University Technical Colleges (UTCs),All,17.5,%,63,11
+All,All,All,No SEN,All,All,Sponsored Academies,All,45.2,%,96980,43824
+All,All,All,All,Any SEN,All,LA maintained mainstream,All,17.7,%,17232,3058
+All,Girls,All,All,No identified SEN,All,LA maintained mainstream,All,56.8,%,58984,33517
+All,Girls,All,No SEN,All,All,LA maintained mainstream,All,56.8,%,58984,33517
+All,Girls,All,All,All,non-selective schools in highly selective areas,LA maintained mainstream,All,42.3,%,2453,1037
+All,All,All,No SEN,All,All,LA maintained mainstream,All,54.1,%,114538,61984
+All,Boys,All,No SEN,All,All,LA maintained mainstream,All,51.2,%,55554,28467
+All,All,All,SEN State EHC,All,All,LA maintained mainstream,All,10.5,%,2622,275
+All,Boys,Non-FSM,All,All,All,LA maintained mainstream,All,49.4,%,55638,27463
+All,All,All,All,All,non-selective schools in other areas,LA maintained mainstream,All,48.8,%,123660,60285
+All,Girls,All,SEN State EHC,All,All,LA maintained mainstream,All,8.8,%,800,70
+All,Girls,Non-FSM,All,All,All,LA maintained mainstream,All,57.2,%,54866,31357
+All,Boys,All,All,No identified SEN,All,LA maintained mainstream,All,51.2,%,55554,28467
+All,All,All,All,No identified SEN,All,LA maintained mainstream,All,54.1,%,114538,61984
+All,Boys,FSM,All,All,All,LA maintained mainstream,All,25.8,%,10317,2666
+All,Girls,All,All,Any SEN,All,LA maintained mainstream,All,20.4,%,6831,1396
+All,All,FSM,All,All,All,LA maintained mainstream,All,29.3,%,21266,6222
+All,All,All,SEN Supp,All,All,LA maintained mainstream,All,19,%,14610,2783
+All,All,Non-FSM,All,All,All,LA maintained mainstream,All,53.2,%,110504,58820
+All,Girls,FSM,All,All,All,LA maintained mainstream,All,32.5,%,10949,3556
+All,Girls,All,All,All,All,LA maintained mainstream,All,53,%,65815,34913
+All,Boys,All,All,All,All,LA maintained mainstream,All,45.7,%,65955,30129
+All,Girls,Non-FSM,All,All,All,Converter Academies,All,63.1,%,126513,79843
+All,Boys,FSM,All,All,All,Studio Schools,All,21.5,%,121,26
+All,Girls,FSM,All,All,All,Sponsored Academies,All,28.6,%,13056,3736
+All,Girls,FSM,All,All,All,FE 14-16 Colleges,All,0,%,4,0
+All,Boys,Non-FSM,All,All,All,Free Schools,All,55.4,%,4966,2752
+All,Boys,FSM,All,All,All,Converter Academies,All,28.2,%,16282,4585
+All,Girls,Non-FSM,All,All,All,Sponsored Academies,All,49.2,%,41841,20598
+All,Boys,Non-FSM,All,All,All,Converter Academies,All,55.5,%,126764,70384
+All,Boys,Non-FSM,All,All,All,University Technical Colleges (UTCs),All,37.7,%,2125,802
+All,Girls,Non-FSM,All,All,All,Studio Schools,All,42.6,%,413,176
+All,Girls,FSM,All,All,All,Converter Academies,All,34.6,%,16984,5872
+All,Boys,FSM,All,All,All,Sponsored Academies,All,23.5,%,13246,3111
+All,Boys,FSM,All,All,All,FE 14-16 Colleges,All,0,%,12,0
+All,Girls,FSM,All,All,All,Studio Schools,All,19.7,%,127,25
+All,Girls,Non-FSM,All,All,All,FE 14-16 Colleges,All,11.8,%,997,118
+All,Girls,FSM,All,All,All,University Technical Colleges (UTCs),All,33.3,%,264,88
+All,Boys,FSM,All,All,All,Free Schools,All,38.2,%,1135,434
+All,All,FSM,All,All,All,University Technical Colleges (UTCs),All,29.9,%,625,187
+All,Girls,Non-FSM,All,All,All,Free Schools,All,60,%,4248,2550
+All,All,FSM,All,All,All,Converter Academies,All,31.4,%,33266,10457
+All,Boys,Non-FSM,All,All,All,FE 14-16 Colleges,All,6.5,%,963,63
+All,All,Non-FSM,All,All,All,FE 14-16 Colleges,All,9.2,%,1960,181
+All,All,Non-FSM,All,All,All,Studio Schools,All,37.6,%,904,340
+All,All,FSM,All,All,All,FE 14-16 Colleges,All,0,%,16,0
+All,All,Non-FSM,All,All,All,Converter Academies,All,59.3,%,253277,150227
+All,All,Non-FSM,All,All,All,Sponsored Academies,All,44.9,%,87499,39271
+All,All,FSM,All,All,All,Free Schools,All,40,%,2075,831
+All,Boys,Non-FSM,All,All,All,Sponsored Academies,All,40.9,%,45658,18673
+All,Girls,Non-FSM,All,All,All,University Technical Colleges (UTCs),All,47.8,%,767,367
+All,All,FSM,All,All,All,Studio Schools,All,20.6,%,248,51
+All,Girls,FSM,All,All,All,Free Schools,All,42.2,%,940,397
+All,Boys,FSM,All,All,All,University Technical Colleges (UTCs),All,27.4,%,361,99
+All,All,Non-FSM,All,All,All,University Technical Colleges (UTCs),All,40.4,%,2892,1169
+All,All,Non-FSM,All,All,All,Free Schools,All,57.5,%,9214,5302
+All,Boys,Non-FSM,All,All,All,Studio Schools,All,33.4,%,491,164
+All,Boys,All,All,All,All,University Technical Colleges (UTCs),All,36.2,%,2486,901
+All,All,FSM,All,All,All,Sponsored Academies,All,26,%,26302,6847
+All,Girls,All,All,All,All,Sponsored Academies,All,44.3,%,54897,24334
+All,Boys,All,All,All,All,FE 14-16 Colleges,All,6.5,%,975,63
+All,Girls,All,All,All,All,Converter Academies,All,59.7,%,143497,85715
+All,Girls,All,All,All,All,University Technical Colleges (UTCs),All,44.1,%,1031,455
+All,Boys,All,All,All,All,Free Schools,All,52.2,%,6101,3186
+All,Girls,All,All,All,All,Studio Schools,All,37.2,%,540,201
+All,Girls,All,All,All,All,Free Schools,All,56.8,%,5188,2947
+All,Boys,All,All,All,All,Studio Schools,All,31,%,612,190
+All,Girls,All,All,All,All,FE 14-16 Colleges,All,11.8,%,1001,118
+All,All,All,All,All,All,Studio Schools,All,33.9,%,1152,391
+All,All,All,All,All,All,FE 14-16 Colleges,All,9.2,%,1976,181
+All,All,All,All,All,All,Sponsored Academies,All,40.5,%,113801,46118
+All,All,All,All,All,All,Converter Academies,All,56.1,%,286543,160684
+All,Boys,All,All,All,All,Sponsored Academies,All,37,%,58904,21784
+All,All,All,All,All,All,University Technical Colleges (UTCs),All,38.6,%,3517,1356
+All,All,All,All,All,All,Free Schools,All,54.3,%,11289,6133
+All,Boys,All,All,All,selective schools,LA maintained mainstream,All,93.7,%,1513,1418
+All,Boys,All,All,All,All,Converter Academies,All,52.4,%,143046,74969
+All,Boys,All,All,All,non-selective schools in highly selective areas,LA maintained mainstream,All,34.3,%,2680,919
+All,Boys,All,All,All,non-selective schools in other areas,LA maintained mainstream,All,45,%,61762,27792
+All,All,All,All,All,non-selective schools in highly selective areas,LA maintained mainstream,All,38.1,%,5133,1956
+All,All,All,All,All,selective schools,LA maintained mainstream,All,94.1,%,2977,2801
+All,Girls,All,All,All,selective schools,LA maintained mainstream,All,94.5,%,1464,1383
+All,Girls,All,All,All,non-selective schools in other areas,LA maintained mainstream,All,52.5,%,61898,32493
+All,Boys,All,All,Any SEN,All,LA maintained mainstream,All,16,%,10401,1662
+All,Girls,All,All,No identified SEN,All,All state-funded,All,58.5,%,244157,142828
+All,Girls,All,SEN Supp,All,All,LA maintained mainstream,All,22,%,6031,1326
+All,All,All,All,All,All,LA maintained mainstream,All,49.4,%,131770,65042
+All,Boys,All,SEN Supp,All,All,LA maintained mainstream,All,17,%,8579,1457
+All,Boys,All,SEN State EHC,All,All,LA maintained mainstream,All,11.3,%,1822,205
+All,Boys,All,All,No identified SEN,non-selective schools in highly selective areas,State-funded mainstream,All,41.4,%,13991,5797
+All,Boys,All,All,Any SEN,non-selective schools in highly selective areas,State-funded mainstream,All,13,%,3211,419
+All,Boys,All,All,Any SEN,non-selective schools in other areas,State-funded mainstream,All,16.8,%,39693,6682
+All,Boys,All,All,No identified SEN,non-selective schools in other areas,State-funded mainstream,All,51.3,%,208116,106673
+All,All,All,All,Any SEN,non-selective schools in highly selective areas,State-funded mainstream,All,13.9,%,5234,727
+All,All,All,All,Any SEN,non-selective schools in other areas,State-funded mainstream,All,18.3,%,64075,11697
+All,All,All,All,Any SEN,selective schools,State-funded mainstream,All,87.5,%,1405,1229
+All,Boys,All,SEN Supp,All,non-selective schools in other areas,State-funded mainstream,All,17.8,%,32758,5825
+All,Girls,All,SEN State EHC,All,non-selective schools in highly selective areas,State-funded mainstream,All,7.6,%,237,18
+All,Girls,All,All,No identified SEN,non-selective schools in other areas,State-funded mainstream,All,57.2,%,217634,124453
+All,Girls,All,No SEN,All,non-selective schools in highly selective areas,State-funded mainstream,All,47.3,%,14829,7009
+All,Girls,All,All,No identified SEN,selective schools,State-funded mainstream,All,97.2,%,11692,11366
+All,Girls,All,SEN State EHC,All,non-selective schools in other areas,State-funded mainstream,All,11.2,%,2723,304
+All,Girls,All,SEN State EHC,All,selective schools,State-funded mainstream,All,88,%,25,22
+All,Boys,All,All,Any SEN,selective schools,State-funded mainstream,All,85.8,%,692,594
+All,Boys,All,SEN State EHC,All,selective schools,State-funded mainstream,All,88.5,%,52,46
+All,Boys,All,SEN Supp,All,non-selective schools in highly selective areas,State-funded mainstream,All,13.5,%,2596,351
+All,Boys,All,SEN Supp,All,selective schools,State-funded mainstream,All,85.6,%,640,548
+All,Boys,All,SEN State EHC,All,non-selective schools in highly selective areas,State-funded mainstream,All,11.1,%,615,68
+All,Boys,All,No SEN,All,selective schools,State-funded mainstream,All,95.6,%,11687,11177
+All,Girls,All,All,Any SEN,selective schools,State-funded mainstream,All,89.1,%,713,635
+All,Girls,All,SEN Supp,All,non-selective schools in highly selective areas,State-funded mainstream,All,16.2,%,1786,290
+All,All,All,All,No identified SEN,non-selective schools in other areas,State-funded mainstream,All,54.3,%,425750,231126
+All,Boys,All,No SEN,All,non-selective schools in other areas,State-funded mainstream,All,51.3,%,208116,106673
+All,Girls,All,SEN Supp,All,non-selective schools in other areas,State-funded mainstream,All,21.8,%,21659,4711
+All,Girls,All,SEN Supp,All,selective schools,State-funded mainstream,All,89.1,%,688,613
+All,All,All,No SEN,All,selective schools,State-funded mainstream,All,96.4,%,23379,22543
+All,All,All,All,No identified SEN,non-selective schools in highly selective areas,State-funded mainstream,All,44.4,%,28820,12806
+All,All,All,SEN State EHC,All,selective schools,State-funded mainstream,All,88.3,%,77,68
+All,Girls,All,All,Any SEN,non-selective schools in highly selective areas,State-funded mainstream,All,15.2,%,2023,308
+All,Girls,All,All,Any SEN,non-selective schools in other areas,State-funded mainstream,All,20.6,%,24382,5015
+All,All,All,All,No identified SEN,selective schools,State-funded mainstream,All,96.4,%,23379,22543
+All,All,All,SEN Supp,All,non-selective schools in other areas,State-funded mainstream,All,19.4,%,54417,10536
+All,Boys,All,No SEN,All,non-selective schools in highly selective areas,State-funded mainstream,All,41.4,%,13991,5797
+All,All,All,SEN State EHC,All,non-selective schools in highly selective areas,State-funded mainstream,All,10.1,%,852,86
+All,Boys,All,All,No identified SEN,selective schools,State-funded mainstream,All,95.6,%,11687,11177
+All,Boys,All,SEN State EHC,All,non-selective schools in other areas,State-funded mainstream,All,12.4,%,6935,857
+All,All,All,SEN Supp,All,non-selective schools in highly selective areas,State-funded mainstream,All,14.6,%,4382,641
+All,All,All,SEN State EHC,All,non-selective schools in other areas,State-funded mainstream,All,12,%,9658,1161
+All,Girls,All,No SEN,All,selective schools,State-funded mainstream,All,97.2,%,11692,11366
+All,Girls,All,No SEN,All,non-selective schools in other areas,State-funded mainstream,All,57.2,%,217634,124453
+All,All,All,No SEN,All,non-selective schools in other areas,State-funded mainstream,All,54.3,%,425750,231126
+All,Boys,Non-FSM,All,All,non-selective schools in highly selective areas,State-funded mainstream,All,39,%,14647,5714
+All,Girls,Non-FSM,All,All,selective schools,State-funded mainstream,All,96.9,%,11929,11556
+All,Girls,FSM,All,All,non-selective schools in other areas,State-funded mainstream,All,32.2,%,39241,12617
+All,Boys,FSM,All,All,non-selective schools in highly selective areas,State-funded mainstream,All,19.6,%,2555,502
+All,Boys,FSM,All,All,selective schools,State-funded mainstream,All,90.8,%,433,393
+All,Boys,FSM,All,All,non-selective schools in other areas,State-funded mainstream,All,26.1,%,38504,10039
+All,Girls,All,All,No identified SEN,non-selective schools in highly selective areas,State-funded mainstream,All,47.3,%,14829,7009
+All,Girls,FSM,All,All,non-selective schools in highly selective areas,State-funded mainstream,All,23.8,%,2630,627
+All,All,Non-FSM,All,All,non-selective schools in highly selective areas,State-funded mainstream,All,43,%,28869,12404
+All,All,FSM,All,All,selective schools,State-funded mainstream,All,92.2,%,909,838
+All,All,Non-FSM,All,All,non-selective schools in other areas,State-funded mainstream,All,53.4,%,412080,220167
+All,All,All,SEN Supp,All,selective schools,State-funded mainstream,All,87.4,%,1328,1161
+All,Boys,Non-FSM,All,All,non-selective schools in other areas,State-funded mainstream,All,49.4,%,209305,103316
+All,Girls,Non-FSM,All,All,non-selective schools in highly selective areas,State-funded mainstream,All,47,%,14222,6690
+All,Girls,FSM,All,All,selective schools,State-funded mainstream,All,93.5,%,476,445
+All,All,FSM,All,All,non-selective schools in other areas,State-funded mainstream,All,29.1,%,77745,22656
+All,All,All,No SEN,All,non-selective schools in highly selective areas,State-funded mainstream,All,44.4,%,28820,12806
+All,Boys,Non-FSM,All,All,selective schools,State-funded mainstream,All,95.2,%,11946,11378
+All,All,FSM,All,All,non-selective schools in highly selective areas,State-funded mainstream,All,21.8,%,5185,1129
+All,Boys,All,All,All,non-selective schools in other areas,State-funded mainstream,All,45.7,%,247809,113355
+All,Girls,Non-FSM,All,All,non-selective schools in other areas,State-funded mainstream,All,57.6,%,202775,116851
+All,All,Non-FSM,All,All,selective schools,State-funded mainstream,All,96.1,%,23875,22934
+All,Girls,All,All,All,non-selective schools in highly selective areas,State-funded mainstream,All,43.4,%,16852,7317
+All,Boys,All,All,All,selective schools,State-funded mainstream,All,95.1,%,12379,11771
+All,Girls,All,All,All,selective schools,State-funded mainstream,All,96.7,%,12405,12001
+All,All,All,All,All,non-selective schools in other areas,State-funded mainstream,All,49.6,%,489825,242823
+All,All,All,All,All,non-selective schools in highly selective areas,State-funded mainstream,All,39.7,%,34054,13533
+All,All,All,All,All,selective schools,State-funded mainstream,All,95.9,%,24784,23772
+All,Boys,All,All,All,non-selective schools in highly selective areas,State-funded mainstream,All,36.1,%,17202,6216
+All,Boys,FSM,All,All,All,State-funded mainstream,All,26.3,%,41504,10934
+All,Girls,All,All,All,All,State-funded mainstream,All,54.7,%,272274,148904
+All,Boys,All,All,All,All,State-funded mainstream,All,47.2,%,278365,131405
+All,All,All,All,All,All,State-funded mainstream,All,50.9,%,550639,280309
+All,All,FSM,All,All,All,State-funded mainstream,All,29.4,%,83855,24623
+All,Girls,FSM,All,All,All,State-funded mainstream,All,32.3,%,42351,13689
+All,Girls,Non-FSM,All,All,All,State-funded mainstream,All,58.8,%,229923,135215
+All,Boys,All,All,All,selective schools,All state-funded,All,95.1,%,12379,11771
+All,All,All,All,All,non-selective schools in other areas,All state-funded,All,49.6,%,489825,242823
+All,All,All,All,All,non-selective schools in highly selective areas,All state-funded,All,39.7,%,34054,13533
+All,All,All,All,All,selective schools,All state-funded,All,95.9,%,24784,23772
+All,Girls,All,All,All,selective schools,All state-funded,All,96.7,%,12405,12001
+All,Girls,All,All,All,non-selective schools in other areas,All state-funded,All,53.5,%,242016,129468
+All,Boys,All,All,All,non-selective schools in other areas,All state-funded,All,45.7,%,247809,113355
+All,Girls,All,All,All,non-selective schools in highly selective areas,All state-funded,All,43.4,%,16852,7317
+All,Boys,All,All,All,non-selective schools in highly selective areas,All state-funded,All,36.1,%,17202,6216
+All,Girls,Non-FSM,SEN State EHC,All,All,All state-funded,All,7.6,%,4000,304
+All,Boys,All,All,Any SEN,All,All state-funded,All,15,%,51841,7784
+All,Girls,FSM,No SEN,All,All,All state-funded,All,36.8,%,35144,12936
+All,All,All,No SEN,All,All,All state-funded,All,55.8,%,477952,266475
+All,Girls,FSM,SEN State EHC,All,All,All state-funded,All,2.7,%,2093,57
+All,Boys,Non-FSM,SEN State EHC,All,All,All state-funded,All,8.6,%,10026,865
+All,Boys,FSM,SEN Supp,All,All,All state-funded,All,10.3,%,8710,893
+All,Girls,FSM,SEN Supp,All,All,All state-funded,All,11,%,6356,701
+All,Girls,All,All,Any SEN,All,All state-funded,All,19.8,%,30252,5977
+All,Boys,Non-FSM,SEN Supp,All,All,All state-funded,All,21.3,%,27382,5834
+All,All,All,SEN State EHC,All,All,All state-funded,All,6.5,%,21842,1418
+All,Girls,Non-FSM,SEN Supp,All,All,All state-funded,All,27.6,%,17803,4915
+All,Boys,All,All,No identified SEN,All,All state-funded,All,52.9,%,233795,123647
+All,Boys,FSM,No SEN,All,All,All state-funded,All,32.2,%,30635,9876
+All,Girls,All,SEN State EHC,All,All,All state-funded,All,5.9,%,6093,361
+All,All,FSM,SEN Supp,All,All,All state-funded,All,10.6,%,15066,1594
+All,All,FSM,No SEN,All,All,All state-funded,All,34.7,%,65779,22812
+All,All,All,SEN Supp,All,All,All state-funded,All,20.5,%,60251,12343
+All,All,Non-FSM,SEN State EHC,All,All,All state-funded,All,8.3,%,14026,1169
+Asian,All,All,All,All,All,All state-funded,All,58.3,%,61023,35548
+All,All,Non-FSM,SEN Supp,All,All,All state-funded,All,23.8,%,45185,10749
+All,Boys,All,No SEN,All,All,All state-funded,All,52.9,%,233795,123647
+All,Boys,All,SEN Supp,All,All,All state-funded,All,18.6,%,36092,6727
+All,Boys,FSM,All,All,All,All state-funded,All,24.3,%,45070,10961
+All,Boys,FSM,SEN State EHC,All,All,All state-funded,All,3.4,%,5723,192
+All,Girls,FSM,All,All,All,All state-funded,All,31.4,%,43596,13694
+All,Boys,All,All,All,All,All state-funded,All,45.9,%,286588,131494
+All,Girls,Non-FSM,No SEN,All,All,All state-funded,All,62.1,%,209013,129892
+All,Boys,All,SEN State EHC,All,All,All state-funded,All,6.7,%,15749,1057
+Asian,Boys,FSM,All,All,All,All state-funded,All,39.7,%,5143,2041
+Asian,All,Non-FSM,All,All,All,All state-funded,All,61.3,%,50580,31020
+All,Girls,All,All,All,All,All state-funded,All,54.1,%,275406,148923
+Asian,All,All,All,Any SEN,All,All state-funded,All,17.3,%,6189,1069
+Asian,All,All,All,No identified SEN,All,All state-funded,All,62.9,%,54832,34479
+All,Boys,Non-FSM,No SEN,All,All,All state-funded,All,56,%,203160,113771
+All,Girls,All,SEN Supp,All,All,All state-funded,All,23.2,%,24159,5616
+All,All,Non-FSM,No SEN,All,All,All state-funded,All,59.1,%,412173,243663
+Asian,Girls,FSM,All,All,All,All state-funded,All,46.9,%,5300,2487
+All,Girls,All,No SEN,All,All,All state-funded,All,58.5,%,244157,142828
+All,All,All,SEN State EHC,All,All,State-funded special schools,All,0.9,%,11253,103
+All,All,All,All,Any SEN,All,State-funded special schools,All,1,%,11355,108
+All,Boys,All,SEN Supp,All,All,State-funded special schools,All,3.8,%,78,3
+All,Girls,All,SEN State EHC,All,All,State-funded special schools,All,0.5,%,3108,17
+All,All,All,SEN Supp,All,All,State-funded special schools,All,4.9,%,102,5
+All,Boys,FSM,All,All,All,State-funded special schools,All,0.8,%,3566,27
+All,Boys,All,SEN State EHC,All,All,State-funded special schools,All,1.1,%,8145,86
+All,All,Non-FSM,All,All,All,State-funded special schools,All,1.2,%,6544,76
+All,All,FSM,SEN State EHC,All,All,All state-funded,All,3.2,%,7816,249
+All,Girls,FSM,All,All,All,State-funded special schools,All,0.4,%,1245,5
+All,Girls,All,SEN Supp,All,All,State-funded special schools,All,8.3,%,24,2
+All,All,FSM,All,All,All,State-funded special schools,All,0.7,%,4811,32
+All,Girls,Non-FSM,All,All,All,State-funded special schools,All,0.7,%,1887,14
+All,Boys,All,All,Any SEN,All,State-funded special schools,All,1.1,%,8223,89
+All,All,All,All,All,All,State-funded special schools,All,1,%,11355,108
+All,Girls,All,All,All,All,State-funded special schools,All,0.6,%,3132,19
+All,Boys,Non-FSM,All,All,All,State-funded special schools,All,1.3,%,4657,62
+All,Boys,All,All,All,All,State-funded special schools,All,1.1,%,8223,89
+All,Girls,All,All,Any SEN,All,State-funded special schools,All,0.6,%,3132,19
+All,Girls,All,All,All,non-selective schools in other areas,State-funded mainstream,All,53.5,%,242016,129468
+All,Boys,All,All,Any SEN,All,State-funded mainstream,All,17.6,%,43618,7695
+All,Boys,All,All,No identified SEN,All,State-funded mainstream,All,52.9,%,233795,123647
+All,All,All,All,No identified SEN,All,State-funded mainstream,All,55.8,%,477952,266475
+All,Girls,All,All,No identified SEN,All,State-funded mainstream,All,58.5,%,244157,142828
+All,Boys,All,SEN State EHC,All,All,State-funded mainstream,All,12.8,%,7604,971
+All,Girls,All,All,Any SEN,All,State-funded mainstream,All,22,%,27120,5958
+All,Girls,All,SEN State EHC,All,All,State-funded mainstream,All,11.5,%,2985,344
+All,All,All,All,Any SEN,All,State-funded mainstream,All,19.3,%,70738,13653
+All,Boys,All,No SEN,All,All,State-funded mainstream,All,52.9,%,233795,123647
+All,Girls,All,SEN Supp,All,All,State-funded mainstream,All,23.3,%,24135,5614
+All,All,All,No SEN,All,All,State-funded mainstream,All,55.8,%,477952,266475
+All,All,All,SEN State EHC,All,All,State-funded mainstream,All,12.4,%,10589,1315
+All,Girls,All,No SEN,All,All,State-funded mainstream,All,58.5,%,244157,142828
+All,All,All,SEN Supp,All,All,State-funded mainstream,All,20.5,%,60149,12338
+All,Boys,Non-FSM,All,All,All,State-funded mainstream,All,50.9,%,236861,120471
+All,All,Non-FSM,All,All,All,State-funded mainstream,All,54.8,%,466784,255686
+All,Boys,All,SEN Supp,All,All,State-funded mainstream,All,18.7,%,36014,6724
+All,Girls,All,All,Any SEN,All,Studio Schools,All,18.8,%,112,21
+All,Boys,All,All,No identified SEN,All,Free Schools,All,57.6,%,5148,2967
+All,Girls,All,All,No identified SEN,All,Converter Academies,All,63.2,%,130266,82277
+All,Boys,All,All,Any SEN,All,University Technical Colleges (UTCs),All,20.4,%,573,117
+All,Boys,All,All,No identified SEN,All,Sponsored Academies,All,42.3,%,48278,20400
+All,Girls,All,All,Any SEN,All,Converter Academies,All,26,%,13231,3438
+All,Boys,All,All,Any SEN,All,Converter Academies,All,20.5,%,20847,4277
+All,Girls,All,All,Any SEN,All,Sponsored Academies,All,14.7,%,6195,910
+All,Boys,All,All,Any SEN,All,FE 14-16 Colleges,All,0,%,22,0
+All,Boys,All,All,Any SEN,All,Free Schools,All,23,%,953,219
+All,Girls,All,All,No identified SEN,All,University Technical Colleges (UTCs),All,46.2,%,886,409
+All,Girls,All,All,No identified SEN,All,Free Schools,All,61.1,%,4608,2814
+All,Boys,All,All,No identified SEN,All,Converter Academies,All,57.8,%,122199,70692
+All,Girls,All,All,No identified SEN,All,FE 14-16 Colleges,All,0,%,2,0
+All,Girls,All,All,No identified SEN,All,Studio Schools,All,42.1,%,428,180
+All,Boys,All,All,No identified SEN,All,University Technical Colleges (UTCs),All,41,%,1913,784
+All,All,All,All,Any SEN,All,Free Schools,All,23,%,1533,352
+All,Boys,All,All,No identified SEN,All,Studio Schools,All,36.8,%,459,169
+All,All,All,All,Any SEN,All,Converter Academies,All,22.6,%,34078,7715
+All,Boys,All,All,Any SEN,All,Studio Schools,All,13.7,%,153,21
+All,All,All,All,No identified SEN,All,Free Schools,All,59.3,%,9756,5781
+All,Girls,All,All,Any SEN,All,Free Schools,All,22.9,%,580,133
+All,All,All,All,No identified SEN,All,Sponsored Academies,All,45.2,%,96980,43824
+All,All,All,All,No identified SEN,All,Studio Schools,All,39.3,%,887,349
+All,All,All,All,No identified SEN,All,FE 14-16 Colleges,All,0,%,3,0
+All,All,All,All,Any SEN,All,Sponsored Academies,All,13.6,%,16821,2294
+All,All,All,All,Any SEN,All,University Technical Colleges (UTCs),All,22.7,%,718,163
+All,All,All,All,Any SEN,All,Studio Schools,All,15.8,%,265,42
+All,All,All,All,No identified SEN,All,University Technical Colleges (UTCs),All,42.6,%,2799,1193
+All,Girls,All,All,Any SEN,All,FE 14-16 Colleges,All,0,%,2,0
+All,All,All,All,No identified SEN,All,Converter Academies,All,60.6,%,252465,152969
+All,Girls,All,All,No identified SEN,All,Sponsored Academies,All,48.1,%,48702,23424
+All,Girls,All,SEN State EHC,All,All,Sponsored Academies,All,8.2,%,621,51
+All,Boys,All,All,No identified SEN,All,FE 14-16 Colleges,All,!,%,1,!
+All,Boys,All,No SEN,All,All,FE 14-16 Colleges,All,!,%,1,!
+All,Girls,All,SEN State EHC,All,All,Free Schools,All,16.4,%,61,10
+All,Boys,All,SEN Supp,All,All,Studio Schools,All,13.2,%,136,18
+All,Boys,All,SEN State EHC,All,All,Converter Academies,All,14.5,%,3734,543
+All,Boys,All,SEN Supp,All,All,FE 14-16 Colleges,All,0,%,20,0
+All,Girls,All,SEN Supp,All,All,Sponsored Academies,All,15.4,%,5574,859
+All,Boys,All,No SEN,All,All,Free Schools,All,57.6,%,5148,2967
+All,Boys,All,SEN State EHC,All,All,Studio Schools,All,17.6,%,17,3
+All,Boys,All,No SEN,All,All,Converter Academies,All,57.8,%,122199,70692
+All,Girls,All,No SEN,All,All,University Technical Colleges (UTCs),All,46.2,%,886,409
+All,Girls,All,No SEN,All,All,Free Schools,All,61.1,%,4608,2814
+All,Girls,All,SEN Supp,All,All,University Technical Colleges (UTCs),All,33.1,%,139,46
+All,Girls,All,No SEN,All,All,Sponsored Academies,All,48.1,%,48702,23424
+All,Boys,All,SEN Supp,All,All,Free Schools,All,24.3,%,793,193
+All,Girls,All,SEN Supp,All,All,Converter Academies,All,27.5,%,11744,3226
+All,Boys,All,SEN State EHC,All,All,FE 14-16 Colleges,All,0,%,2,0
+All,Girls,All,All,Any SEN,All,University Technical Colleges (UTCs),All,31.7,%,145,46
+All,Girls,All,SEN State EHC,All,All,Studio Schools,All,12.5,%,8,1
+All,Boys,All,All,Any SEN,All,Sponsored Academies,All,13,%,10626,1384
+All,Girls,All,SEN State EHC,All,All,Converter Academies,All,14.3,%,1487,212
+All,Girls,All,SEN Supp,All,All,FE 14-16 Colleges,All,0,%,2,0
+All,Girls,All,SEN Supp,All,All,Studio Schools,All,19.2,%,104,20
+All,Boys,All,No SEN,All,All,University Technical Colleges (UTCs),All,41,%,1913,784
+All,Boys,All,SEN Supp,All,All,University Technical Colleges (UTCs),All,20.5,%,516,106
+All,Girls,All,No SEN,All,All,FE 14-16 Colleges,All,0,%,2,0
+All,Girls,All,SEN State EHC,All,All,University Technical Colleges (UTCs),All,0,%,6,0
+All,All,All,All,Any SEN,All,FE 14-16 Colleges,All,0,%,24,0
+All,Boys,All,SEN Supp,All,All,Sponsored Academies,All,13.6,%,8821,1203
+All,Boys,All,No SEN,All,All,Studio Schools,All,36.8,%,459,169
+All,Boys,All,SEN State EHC,All,All,Free Schools,All,16.3,%,160,26
+All,Boys,All,No SEN,All,All,Sponsored Academies,All,42.3,%,48278,20400
+All,All,All,SEN Supp,All,All,Free Schools,All,24.1,%,1312,316
+All,All,All,SEN State EHC,All,All,Free Schools,All,16.3,%,221,36
+All,Boys,All,SEN Supp,All,All,Converter Academies,All,21.8,%,17113,3734
+All,All,All,SEN State EHC,All,All,FE 14-16 Colleges,All,0,%,2,0
+All,All,All,No SEN,All,All,Converter Academies,All,60.6,%,252465,152969
+All,All,All,No SEN,All,All,University Technical Colleges (UTCs),All,42.6,%,2799,1193
+All,All,All,No SEN,All,All,FE 14-16 Colleges,All,0,%,3,0
+All,All,All,SEN Supp,All,All,Sponsored Academies,All,14.3,%,14395,2062
+Asian,All,All,All,All,All,Academies and free schools,All,61.2,%,43483,26618
+Asian,Boys,All,All,All,All,University Technical Colleges (UTCs),All,41.4,%,169,70
+Asian,Boys,All,All,All,All,Sponsored Academies,All,45,%,6249,2811
+Asian,Boys,All,All,All,All,FE 14-16 Colleges,All,!,%,2,!
+Asian,Girls,All,All,All,All,Free Schools,All,67.3,%,1237,832
+Asian,Boys,All,All,All,All,Free Schools,All,64.6,%,1487,961
+Asian,Girls,All,All,All,All,Converter Academies,All,68.7,%,14825,10188
+Asian,Boys,All,All,All,All,Converter Academies,All,63.6,%,14177,9017
+Asian,Boys,All,All,All,All,Studio Schools,All,27.5,%,40,11
+Asian,Girls,All,All,All,All,Studio Schools,All,47.1,%,51,24
+Asian,Girls,All,All,All,All,University Technical Colleges (UTCs),All,53.1,%,81,43
+Asian,All,All,All,All,All,Converter Academies,All,66.2,%,29002,19205
+Asian,All,All,All,All,All,Sponsored Academies,All,47.9,%,11416,5472
+Asian,All,All,All,All,All,Studio Schools,All,38.5,%,91,35
+Asian,All,All,All,All,All,FE 14-16 Colleges,All,!,%,2,!
+Asian,All,All,All,All,All,Free Schools,All,65.8,%,2724,1793
+Asian,All,All,All,All,All,University Technical Colleges (UTCs),All,45.2,%,250,113
+Asian,Boys,All,All,All,All,Academies and free schools,All,58.2,%,22122,12870
+Asian,Girls,All,All,All,All,Academies and free schools,All,64.4,%,21361,13748
+Asian,Girls,All,All,All,All,Sponsored Academies,All,51.5,%,5167,2661
+Asian,Girls,All,All,All,All,LA maintained mainstream,All,56.8,%,8173,4644
+Asian,Boys,All,All,All,All,LA maintained mainstream,All,50.6,%,8393,4245
+Asian Other,Girls,FSM,All,All,All,All state-funded,All,49.9,%,689,344
+Asian Other,All,FSM,All,All,All,All state-funded,All,42.9,%,1431,614
+Asian,Boys,All,All,All,All,All state-funded,All,55,%,31129,17134
+Asian,All,All,No SEN,All,All,All state-funded,All,62.9,%,54832,34479
+Asian Other,Boys,FSM,All,All,All,All state-funded,All,36.4,%,742,270
+Asian,Girls,All,All,All,All,All state-funded,All,61.6,%,29894,18414
+Asian,All,All,All,All,All,LA maintained mainstream,All,53.7,%,16566,8889
+Asian,Boys,All,All,All,non-selective schools in other areas,State-funded mainstream,All,52.2,%,26764,13982
+Asian,Boys,All,All,All,non-selective schools in highly selective areas,State-funded mainstream,All,49.6,%,1151,571
+Asian,Boys,All,All,All,selective schools,State-funded mainstream,All,98.2,%,2623,2577
+Asian,Girls,All,All,All,selective schools,State-funded mainstream,All,98.6,%,2364,2332
+Asian,Girls,All,All,All,non-selective schools in other areas,State-funded mainstream,All,59.2,%,25993,15386
+Asian,All,All,All,All,non-selective schools in highly selective areas,State-funded mainstream,All,53.8,%,2355,1267
+Asian,Girls,All,All,All,non-selective schools in highly selective areas,State-funded mainstream,All,57.8,%,1204,696
+Asian,All,All,All,All,selective schools,State-funded mainstream,All,98.4,%,4987,4909
+Asian,All,All,All,All,non-selective schools in other areas,State-funded mainstream,All,55.7,%,52757,29368
+Asian,Girls,All,All,All,All,State-funded mainstream,All,62.3,%,29561,18414
+Asian,Boys,All,All,All,All,State-funded mainstream,All,56.1,%,30540,17130
+Asian,Boys,All,All,No identified SEN,All,All state-funded,All,60.4,%,27307,16491
+Asian,Girls,All,All,Any SEN,All,All state-funded,All,18,%,2369,426
+Asian,Boys,All,All,Any SEN,All,All state-funded,All,16.8,%,3820,643
+Asian,All,All,SEN State EHC,All,All,All state-funded,All,7.5,%,1757,132
+Asian,Girls,All,All,No identified SEN,All,All state-funded,All,65.4,%,27525,17988
+Asian,Girls,All,No SEN,All,All,All state-funded,All,65.4,%,27525,17988
+Asian,All,All,SEN Supp,All,All,All state-funded,All,21.1,%,4432,937
+Asian,Boys,All,SEN State EHC,All,All,All state-funded,All,7.9,%,1145,90
+Asian,Girls,All,SEN State EHC,All,All,All state-funded,All,6.9,%,612,42
+Asian,Boys,All,SEN Supp,All,All,All state-funded,All,20.7,%,2675,553
+Asian,Boys,All,No SEN,All,All,All state-funded,All,60.4,%,27307,16491
+Asian Other,All,All,All,All,All,All state-funded,All,65,%,10247,6661
+Asian Other,All,Non-FSM,All,All,All,All state-funded,All,68.6,%,8816,6047
+Bangladeshi,Boys,FSM,All,All,All,All state-funded,All,46.6,%,1293,603
+Bangladeshi,Girls,FSM,All,All,All,All state-funded,All,52.1,%,1414,736
+Asian Other,Boys,All,All,All,All,All state-funded,All,60.1,%,5398,3246
+Asian,Girls,All,SEN Supp,All,All,All state-funded,All,21.9,%,1757,384
+Asian,All,All,All,All,All,State-funded special schools,All,0.4,%,922,4
+Asian,Boys,All,All,All,All,State-funded special schools,All,0.7,%,589,4
+Asian,Girls,All,All,All,All,State-funded special schools,All,0,%,333,0
+Asian,All,All,All,All,All,State-funded mainstream,All,59.1,%,60101,35544
+Asian Other,Girls,All,All,All,All,All state-funded,All,70.4,%,4849,3415
+Black,Boys,FSM,All,All,All,All state-funded,All,29.6,%,4159,1231
+Black,Girls,FSM,All,All,All,All state-funded,All,41.3,%,4106,1696
+Black African,Girls,FSM,All,All,All,All state-funded,All,45.6,%,2620,1196
+Black African,Boys,FSM,All,All,All,All state-funded,All,34.5,%,2533,873
+Bangladeshi,All,All,All,All,All,All state-funded,All,57.3,%,10372,5939
+Bangladeshi,All,FSM,All,All,All,All state-funded,All,49.5,%,2707,1339
+Bangladeshi,All,Non-FSM,All,All,All,All state-funded,All,60,%,7665,4600
+Bangladeshi,Boys,All,All,All,All,All state-funded,All,54.4,%,5143,2799
+Black Caribbean,Boys,FSM,All,All,All,All state-funded,All,21.1,%,1049,221
+Black Caribbean,Girls,FSM,All,All,All,All state-funded,All,29.2,%,990,289
+Black Other,Girls,FSM,All,All,All,All state-funded,All,42.5,%,496,211
+Black Other,Boys,FSM,All,All,All,All state-funded,All,23.7,%,577,137
+Black,All,All,All,All,All,All state-funded,All,46,%,32935,15141
+Bangladeshi,Girls,All,All,All,All,All state-funded,All,60,%,5229,3140
+Black,All,FSM,All,All,All,All state-funded,All,35.4,%,8265,2927
+Black,All,All,All,Any SEN,All,All state-funded,All,12.6,%,4532,571
+Black,All,Non-FSM,All,All,All,All state-funded,All,49.5,%,24670,12214
+Black,All,All,All,All,All,Academies and free schools,All,47.5,%,22525,10708
+Black,Girls,All,All,All,All,Sponsored Academies,All,48.3,%,4005,1935
+Black,Boys,All,All,All,All,FE 14-16 Colleges,All,!,%,1,!
+Black,Girls,All,All,All,All,Free Schools,All,48.8,%,563,275
+Black,Girls,All,All,All,All,Studio Schools,All,33.3,%,21,7
+Black,Girls,All,All,All,All,Converter Academies,All,57,%,6535,3727
+Black,Girls,All,All,All,All,University Technical Colleges (UTCs),All,41.6,%,77,32
+Black,Boys,All,All,All,All,University Technical Colleges (UTCs),All,36.6,%,145,53
+Black,Boys,All,All,All,All,Studio Schools,All,18.2,%,11,2
+Black,All,All,All,All,All,Converter Academies,All,51.8,%,12467,6462
+Black,Boys,All,All,All,All,Converter Academies,All,46.1,%,5932,2735
+Black,All,All,All,All,All,Free Schools,All,44.9,%,1208,542
+Black,All,All,All,All,All,Studio Schools,All,28.1,%,32,9
+Black,All,All,All,All,All,FE 14-16 Colleges,All,!,%,1,!
+Black,All,All,All,All,All,Sponsored Academies,All,42,%,8596,3610
+Black,Girls,All,All,All,All,Academies and free schools,All,53.4,%,11201,5976
+Black,Boys,All,All,All,All,Academies and free schools,All,41.8,%,11324,4732
+Black,Boys,All,All,All,All,Sponsored Academies,All,36.5,%,4591,1675
+Black,Boys,All,All,All,All,Free Schools,All,41.4,%,645,267
+Black,All,All,All,All,All,LA maintained mainstream,All,45.4,%,9698,4400
+Black,Boys,All,All,All,All,LA maintained mainstream,All,39.7,%,4588,1823
+Black,Girls,All,All,All,All,LA maintained mainstream,All,50.4,%,5110,2577
+Black,All,All,All,No identified SEN,All,All state-funded,All,51.3,%,28402,14570
+Gypsy/Roma,Boys,FSM,All,All,All,All state-funded,All,4.5,%,246,11
+Gypsy/Roma,Girls,FSM,All,All,All,All state-funded,All,6.4,%,251,16
+Black African,All,FSM,All,All,All,All state-funded,All,40.2,%,5153,2069
+Black,Boys,All,All,All,All,All state-funded,All,40,%,16436,6571
+Black,All,All,No SEN,All,All,All state-funded,All,51.3,%,28402,14570
+Black,Girls,All,All,All,All,All state-funded,All,51.9,%,16499,8570
+Black,Girls,All,All,All,non-selective schools in highly selective areas,State-funded mainstream,All,53.4,%,762,407
+Black,Boys,All,All,All,non-selective schools in highly selective areas,State-funded mainstream,All,40.6,%,727,295
+Black,Girls,All,All,All,selective schools,State-funded mainstream,All,99,%,627,621
+Black,Boys,All,All,All,non-selective schools in other areas,State-funded mainstream,All,39.3,%,14687,5776
+Black,All,All,All,All,selective schools,State-funded mainstream,All,97.4,%,1148,1118
+Black,Girls,All,All,All,non-selective schools in other areas,State-funded mainstream,All,50.4,%,14951,7542
+Black,All,All,All,All,non-selective schools in other areas,State-funded mainstream,All,44.9,%,29638,13318
+Black,All,All,All,All,non-selective schools in highly selective areas,State-funded mainstream,All,47.1,%,1489,702
+Black,Boys,All,All,All,selective schools,State-funded mainstream,All,95.4,%,521,497
+Black,Boys,All,All,All,All,State-funded mainstream,All,41.2,%,15936,6568
+Black,Girls,All,All,All,All,State-funded mainstream,All,52.4,%,16340,8570
+Black,Boys,All,All,No identified SEN,All,All state-funded,All,46,%,13542,6236
+Black,Girls,All,All,Any SEN,All,All state-funded,All,14.4,%,1639,236
+Black,All,All,SEN State EHC,All,All,All state-funded,All,4.4,%,1310,57
+Black,Girls,All,All,No identified SEN,All,All state-funded,All,56.1,%,14860,8334
+Black,Boys,All,All,Any SEN,All,All state-funded,All,11.6,%,2893,335
+Black,Boys,All,SEN State EHC,All,All,All state-funded,All,4.8,%,973,47
+Black,Boys,All,No SEN,All,All,All state-funded,All,46,%,13542,6236
+Black,Girls,All,SEN State EHC,All,All,All state-funded,All,3,%,337,10
+Black,All,All,SEN Supp,All,All,All state-funded,All,16,%,3222,514
+Black,Boys,All,SEN Supp,All,All,All state-funded,All,15,%,1920,288
+Black,Girls,All,No SEN,All,All,All state-funded,All,56.1,%,14860,8334
+Black,Girls,All,SEN Supp,All,All,All state-funded,All,17.4,%,1302,226
+Black African,All,All,All,All,All,All state-funded,All,50.7,%,21299,10799
+Indian,Boys,FSM,All,All,All,All state-funded,All,47.2,%,587,277
+Black African,All,Non-FSM,All,All,All,All state-funded,All,54.1,%,16146,8730
+Indian,Girls,FSM,All,All,All,All state-funded,All,57.2,%,556,318
+Black African,Boys,All,All,All,All,All state-funded,All,45.3,%,10522,4762
+Black,Boys,All,All,All,All,State-funded special schools,All,0.6,%,500,3
+Black,Girls,All,All,All,All,State-funded special schools,All,0,%,159,0
+Black,All,All,All,All,All,State-funded special schools,All,0.5,%,659,3
+Black,All,All,All,All,All,State-funded mainstream,All,46.9,%,32276,15138
+Black,All,All,All,All,All,University Technical Colleges (UTCs),All,38.3,%,222,85
+Irish Traveller,Boys,FSM,All,All,All,All state-funded,All,6.3,%,48,3
+Irish Traveller,Girls,FSM,All,All,All,All state-funded,All,14.6,%,41,6
+Mixed,Boys,FSM,All,All,All,All state-funded,All,26.1,%,3196,834
+Black Caribbean,All,All,All,All,All,All state-funded,All,34.8,%,7378,2567
+Black Caribbean,All,FSM,All,All,All,All state-funded,All,25,%,2039,510
+Mixed,Girls,FSM,All,All,All,All state-funded,All,33.7,%,3125,1052
+Black African,Girls,All,All,All,All,All state-funded,All,56,%,10777,6037
+Black Caribbean,All,Non-FSM,All,All,All,All state-funded,All,38.5,%,5339,2057
+Black Caribbean,Boys,All,All,All,All,All state-funded,All,29.2,%,3700,1080
+Black Other,All,All,All,All,All,All state-funded,All,41.7,%,4258,1775
+Mixed Other,Boys,FSM,All,All,All,All state-funded,All,31.3,%,1124,352
+Mixed Other,Girls,FSM,All,All,All,All state-funded,All,34.9,%,1059,370
+Mixed White and Asian,Girls,FSM,All,All,All,All state-funded,All,40.1,%,504,202
+Mixed White and Asian,Boys,FSM,All,All,All,All state-funded,All,28.5,%,558,159
+Black Other,All,FSM,All,All,All,All state-funded,All,32.4,%,1073,348
+Black Caribbean,Girls,All,All,All,All,All state-funded,All,40.4,%,3678,1487
+Black Other,All,Non-FSM,All,All,All,All state-funded,All,44.8,%,3185,1427
+Mixed White and Black African,Girls,FSM,All,All,All,All state-funded,All,39.4,%,421,166
+Mixed White and Black African,Boys,FSM,All,All,All,All state-funded,All,29.7,%,411,122
+Mixed White and Black Caribbean,Boys,FSM,All,All,All,All state-funded,All,18.2,%,1103,201
+Mixed White and Black Caribbean,Girls,FSM,All,All,All,All state-funded,All,27.5,%,1141,314
+Black Other,Boys,All,All,All,All,All state-funded,All,32.9,%,2214,729
+Black Other,Girls,All,All,All,All,All state-funded,All,51.2,%,2044,1046
+Chinese,All,All,All,All,All,All state-funded,All,79.6,%,1959,1560
+Chinese,Boys,All,No SEN,All,All,All state-funded,All,79,%,880,695
+Chinese,Girls,All,No SEN,All,All,All state-funded,All,85.4,%,959,819
+Chinese,All,All,All,Any SEN,All,All state-funded,All,38.3,%,120,46
+Chinese,Boys,All,SEN State EHC,All,All,All state-funded,All,29.4,%,34,10
+Chinese,Girls,All,SEN State EHC,All,All,All state-funded,All,12.5,%,8,1
+Chinese,All,All,All,No identified SEN,All,All state-funded,All,82.3,%,1839,1514
+Chinese,Boys,All,SEN Supp,All,All,All state-funded,All,32.6,%,43,14
+Chinese,Girls,All,SEN Supp,All,All,All state-funded,All,60,%,35,21
+Chinese,All,All,No SEN,All,All,All state-funded,All,82.3,%,1839,1514
+Chinese,Boys,All,All,Any SEN,All,All state-funded,All,31.2,%,77,24
+Chinese,Girls,All,All,Any SEN,All,All state-funded,All,51.2,%,43,22
+Chinese,All,All,SEN State EHC,All,All,All state-funded,All,26.2,%,42,11
+Chinese,Boys,All,All,No identified SEN,All,All state-funded,All,79,%,880,695
+Chinese,Girls,All,All,No identified SEN,All,All state-funded,All,85.4,%,959,819
+Chinese,All,All,All,All,All,Converter Academies,All,84.9,%,1162,987
+Chinese,Boys,All,All,All,All,Converter Academies,All,81.6,%,571,466
+Chinese,Girls,All,All,All,All,Converter Academies,All,88.2,%,591,521
+Chinese,All,All,All,All,All,Free Schools,All,71,%,31,22
+Chinese,Boys,All,All,All,All,Free Schools,All,75,%,16,12
+Chinese,Girls,All,All,All,All,Free Schools,All,66.7,%,15,10
+Chinese,All,All,All,All,All,LA maintained mainstream,All,77.5,%,449,348
+Chinese,Boys,All,All,All,All,LA maintained mainstream,All,72.6,%,212,154
+Chinese,Girls,All,All,All,All,LA maintained mainstream,All,81.9,%,237,194
+Chinese,All,All,All,All,All,Sponsored Academies,All,67.9,%,287,195
+Chinese,Boys,All,All,All,All,Sponsored Academies,All,60.6,%,137,83
+Chinese,Girls,All,All,All,All,Sponsored Academies,All,74.7,%,150,112
+Chinese,All,All,All,All,All,State-funded mainstream,All,80.3,%,1942,1560
+Chinese,Boys,All,All,All,All,State-funded mainstream,All,76.1,%,945,719
+Chinese,Girls,All,All,All,All,State-funded mainstream,All,84.4,%,997,841
+Chinese,All,All,All,All,non-selective schools in highly selective areas,State-funded mainstream,All,69.6,%,112,78
+Chinese,Boys,All,All,All,non-selective schools in highly selective areas,State-funded mainstream,All,60.3,%,58,35
+Chinese,Girls,All,All,All,non-selective schools in highly selective areas,State-funded mainstream,All,79.6,%,54,43
+Chinese,All,All,All,All,non-selective schools in other areas,State-funded mainstream,All,77,%,1467,1129
+Chinese,Boys,All,All,All,non-selective schools in other areas,State-funded mainstream,All,72.3,%,704,509
+Chinese,Girls,All,All,All,non-selective schools in other areas,State-funded mainstream,All,81.3,%,763,620
+Chinese,All,All,All,All,selective schools,State-funded mainstream,All,97.2,%,363,353
+Chinese,Boys,All,All,All,selective schools,State-funded mainstream,All,95.6,%,183,175
+Chinese,Girls,All,All,All,selective schools,State-funded mainstream,All,98.9,%,180,178
+Chinese,All,All,All,All,All,State-funded special schools,All,0,%,17,0
+Chinese,Boys,All,All,All,All,State-funded special schools,All,0,%,12,0
+Chinese,Girls,All,All,All,All,State-funded special schools,All,0,%,5,0
+Chinese,All,All,All,All,All,Studio Schools,All,!,%,1,!
+Chinese,Girls,All,All,All,All,Studio Schools,All,!,%,1,!
+Chinese,All,All,All,All,All,University Technical Colleges (UTCs),All,37.5,%,8,3
+Chinese,Boys,All,All,All,All,University Technical Colleges (UTCs),All,37.5,%,8,3
+Chinese,All,All,All,All,All,State-funded mainstream,Church of England,83.5,%,158,132
+Chinese,Boys,All,All,All,All,State-funded mainstream,Church of England,81.7,%,82,67
+Chinese,Girls,All,All,All,All,State-funded mainstream,Church of England,85.5,%,76,65
+Chinese,All,All,All,All,All,State-funded mainstream,Jewish,!,%,3,!
+Chinese,Boys,All,All,All,All,State-funded mainstream,Jewish,!,%,2,!
+Chinese,Girls,All,All,All,All,State-funded mainstream,Jewish,!,%,1,!
+Chinese,All,All,All,All,All,State-funded mainstream,Muslim,!,%,1,!
+Chinese,Boys,All,All,All,All,State-funded mainstream,Muslim,!,%,1,!
+Chinese,All,All,All,All,All,State-funded mainstream,No religious character,79.5,%,1555,1237
+Chinese,Boys,All,All,All,All,State-funded mainstream,No religious character,74.6,%,769,574
+Chinese,Girls,All,All,All,All,State-funded mainstream,No religious character,84.4,%,786,663
+Chinese,All,All,All,All,All,State-funded mainstream,Other Christian faith,92.8,%,69,64
+Chinese,Boys,All,All,All,All,State-funded mainstream,Other Christian faith,94.9,%,39,37
+Chinese,Girls,All,All,All,All,State-funded mainstream,Other Christian faith,90,%,30,27
+Chinese,All,All,All,All,All,State-funded mainstream,Roman catholic,78.8,%,156,123
+Chinese,Boys,All,All,All,All,State-funded mainstream,Roman catholic,73.1,%,52,38
+Chinese,Girls,All,All,All,All,State-funded mainstream,Roman catholic,81.7,%,104,85
+Pakistani,Boys,FSM,All,All,All,All state-funded,All,35.3,%,2521,891
+Pakistani,Girls,FSM,All,All,All,All state-funded,All,41.2,%,2641,1089
+White,Boys,FSM,All,All,All,All state-funded,All,20.1,%,30270,6092
+White,Girls,FSM,All,All,All,All state-funded,All,26.3,%,29033,7649
+Chinese,All,All,SEN Supp,All,All,All state-funded,All,44.9,%,78,35
+Chinese,Boys,All,All,All,All,All state-funded,All,75.1,%,957,719
+Chinese,All,FSM,All,All,All,All state-funded,All,72.9,%,140,102
+Chinese,Girls,All,All,All,All,All state-funded,All,83.9,%,1002,841
+Chinese,All,Non-FSM,All,All,All,All state-funded,All,80.2,%,1819,1458
+White British,Boys,FSM,All,All,All,All state-funded,All,19.7,%,28252,5568
+White British,Girls,FSM,All,All,All,All state-funded,All,25.9,%,27123,7017
+White Irish,Girls,FSM,All,All,All,All state-funded,All,32,%,100,32
+White Irish,Boys,FSM,All,All,All,All state-funded,All,27.6,%,123,34
+Gypsy/Roma,All,All,All,All,All,All state-funded,All,8.1,%,1354,109
+Gypsy/Roma,All,FSM,All,All,All,All state-funded,All,5.4,%,497,27
+Gypsy/Roma,Boys,All,All,All,All,All state-funded,All,6.7,%,687,46
+Gypsy/Roma,All,Non-FSM,All,All,All,All state-funded,All,9.6,%,857,82
+Gypsy/Roma,Girls,All,All,All,All,All state-funded,All,9.4,%,667,63
+White Other,Girls,FSM,All,All,All,All state-funded,All,38.1,%,1518,578
+White Other,Boys,FSM,All,All,All,All state-funded,All,29.7,%,1601,476
+Chinese,Boys,FSM,All,All,All,All state-funded,All,68,%,75,51
+Indian,All,All,All,All,All,All state-funded,All,70.4,%,16129,11353
+Chinese,Girls,FSM,All,All,All,All state-funded,All,78.5,%,65,51
+Indian,All,FSM,All,All,All,All state-funded,All,52.1,%,1143,595
+Indian,Boys,All,All,All,All,All state-funded,All,66.6,%,8308,5536
+Indian,Girls,All,All,All,All,All state-funded,All,74.4,%,7821,5817
+Indian,All,Non-FSM,All,All,All,All state-funded,All,71.8,%,14986,10758
+Mixed,All,All,All,All,All,Academies and free schools,All,51.9,%,21779,11303
+Mixed,Girls,All,All,All,All,Academies and free schools,All,55.5,%,10795,5995
+Mixed,Boys,All,All,All,All,Sponsored Academies,All,38.1,%,3261,1244
+Mixed,Boys,All,All,All,All,Converter Academies,All,53.4,%,7023,3747
+Mixed,Boys,All,All,All,All,Studio Schools,All,22.9,%,35,8
+Mixed,Girls,All,All,All,All,University Technical Colleges (UTCs),All,49.3,%,73,36
+Mixed,All,All,All,All,All,Studio Schools,All,25,%,64,16
+Mixed,Girls,All,All,All,All,Sponsored Academies,All,43.8,%,3083,1349
+Mixed,All,All,All,All,All,FE 14-16 Colleges,All,0,%,5,0
+Mixed,All,All,All,All,All,Sponsored Academies,All,40.9,%,6344,2593
+Mixed,All,All,All,All,All,Free Schools,All,52.5,%,928,487
+Mixed,All,All,All,All,All,University Technical Colleges (UTCs),All,40.6,%,207,84
+Mixed,All,All,All,All,All,Converter Academies,All,57.1,%,14236,8123
+Mixed,Boys,All,All,All,All,Academies and free schools,All,48.3,%,10984,5308
+Mixed,Girls,All,All,All,All,FE 14-16 Colleges,All,!,%,1,!
+Mixed,Boys,All,All,All,All,Free Schools,All,49.2,%,531,261
+Mixed,Boys,All,All,All,All,University Technical Colleges (UTCs),All,35.8,%,134,48
+Mixed,Girls,All,All,All,All,Studio Schools,All,27.6,%,29,8
+Mixed,Boys,All,All,All,All,FE 14-16 Colleges,All,0,%,4,0
+Mixed,Girls,All,All,All,All,Free Schools,All,56.9,%,397,226
+Mixed,Girls,All,All,All,All,Converter Academies,All,60.7,%,7213,4376
+Mixed,Boys,All,All,All,All,LA maintained mainstream,All,44.5,%,3382,1504
+Mixed,Girls,All,All,All,All,LA maintained mainstream,All,53.2,%,3682,1959
+Mixed,All,All,All,All,All,LA maintained mainstream,All,49,%,7064,3463
+Other,Boys,FSM,All,All,All,All state-funded,All,35.8,%,1474,528
+Other,Girls,FSM,All,All,All,All state-funded,All,43.5,%,1309,569
+Irish Traveller,All,All,All,All,All,All state-funded,All,20,%,160,32
+Unknown,Boys,FSM,All,All,All,All state-funded,All,24.4,%,753,184
+Irish Traveller,All,FSM,All,All,All,All state-funded,All,10.1,%,89,9
+Irish Traveller,Boys,All,All,All,All,All state-funded,All,16,%,75,12
+Irish Traveller,Girls,All,All,All,All,All state-funded,All,23.5,%,85,20
+Mixed,Girls,All,All,All,selective schools,State-funded mainstream,All,96.3,%,781,752
+Mixed,Boys,All,All,All,non-selective schools in highly selective areas,State-funded mainstream,All,39.3,%,872,343
+Mixed,Girls,All,All,All,non-selective schools in other areas,State-funded mainstream,All,53,%,12899,6837
+Mixed,All,All,All,All,selective schools,State-funded mainstream,All,96,%,1535,1474
+Mixed,All,All,All,All,non-selective schools in highly selective areas,State-funded mainstream,All,42.8,%,1701,728
+Mixed,Girls,All,All,All,non-selective schools in highly selective areas,State-funded mainstream,All,46.4,%,829,385
+Mixed,Boys,All,All,All,non-selective schools in other areas,State-funded mainstream,All,45.1,%,12763,5760
+Mixed,All,All,All,All,non-selective schools in other areas,State-funded mainstream,All,49.1,%,25662,12597
+Mixed,Boys,All,All,All,selective schools,State-funded mainstream,All,95.8,%,754,722
+Mixed,Girls,All,All,No identified SEN,All,All state-funded,All,58.6,%,13073,7657
+Mixed,Boys,All,All,Any SEN,All,All state-funded,All,14.9,%,2699,402
+Mixed,Girls,All,All,Any SEN,All,All state-funded,All,20,%,1593,318
+Mixed,Boys,All,All,No identified SEN,All,All state-funded,All,53.1,%,12112,6428
+Mixed,All,All,All,All,All,All state-funded,All,50.2,%,29481,14805
+Mixed,Girls,All,SEN State EHC,All,All,All state-funded,All,4.3,%,299,13
+Mixed,Boys,All,SEN State EHC,All,All,All state-funded,All,7.4,%,840,62
+Mixed,Girls,All,No SEN,All,All,All state-funded,All,58.6,%,13073,7657
+Mixed,All,All,All,Any SEN,All,All state-funded,All,16.8,%,4292,720
+Mixed,Boys,All,No SEN,All,All,All state-funded,All,53.1,%,12112,6428
+Mixed,Boys,All,SEN Supp,All,All,All state-funded,All,18.3,%,1859,340
+Mixed,All,All,All,No identified SEN,All,All state-funded,All,55.9,%,25185,14085
+Mixed,Girls,All,SEN Supp,All,All,All state-funded,All,23.6,%,1294,305
+Mixed,All,All,No SEN,All,All,All state-funded,All,55.9,%,25185,14085
+Unknown,Girls,FSM,All,All,All,All state-funded,All,28.9,%,658,190
+Mixed,All,All,SEN State EHC,All,All,All state-funded,All,6.6,%,1139,75
+Irish Traveller,All,Non-FSM,All,All,All,All state-funded,All,32.4,%,71,23
+Mixed,All,All,All,All,All,State-funded special schools,All,1,%,578,6
+Mixed,Girls,All,All,All,All,State-funded special schools,All,0.6,%,157,1
+Mixed,Boys,All,All,All,All,State-funded special schools,All,1.2,%,421,5
+Mixed,Boys,All,All,All,All,State-funded mainstream,All,47.4,%,14393,6825
+Mixed,All,All,All,All,All,State-funded mainstream,All,51.2,%,28903,14799
+Mixed,Girls,All,All,All,All,State-funded mainstream,All,55,%,14510,7974
+All,Boys,Non-FSM,All,All,All,All state-funded,All,49.9,%,241518,120533
+All,Girls,Non-FSM,All,All,All,All state-funded,All,58.3,%,231810,135229
+Asian,Boys,Non-FSM,All,All,All,All state-funded,All,58.1,%,25986,15093
+Asian,Girls,Non-FSM,All,All,All,All state-funded,All,64.8,%,24594,15927
+Mixed,All,All,SEN Supp,All,All,All state-funded,All,20.5,%,3153,645
+Mixed,Boys,All,All,All,All,All state-funded,All,46.1,%,14814,6830
+Mixed,All,FSM,All,All,All,All state-funded,All,29.8,%,6321,1886
+Mixed,Girls,All,All,All,All,All state-funded,All,54.4,%,14667,7975
+Mixed,All,Non-FSM,All,All,All,All state-funded,All,55.8,%,23160,12919
+Asian Other,Girls,Non-FSM,All,All,All,All state-funded,All,73.8,%,4160,3071
+Asian Other,Boys,Non-FSM,All,All,All,All state-funded,All,63.9,%,4656,2976
+Bangladeshi,Girls,Non-FSM,All,All,All,All state-funded,All,63,%,3815,2404
+Bangladeshi,Boys,Non-FSM,All,All,All,All state-funded,All,57,%,3850,2196
+Mixed Other,All,All,All,All,All,All state-funded,All,53,%,11093,5878
+Mixed Other,All,FSM,All,All,All,All state-funded,All,33.1,%,2183,722
+Mixed Other,Boys,All,All,All,All,All state-funded,All,49.8,%,5667,2824
+Mixed Other,Girls,All,All,All,All,All state-funded,All,56.3,%,5426,3054
+Mixed Other,All,Non-FSM,All,All,All,All state-funded,All,57.9,%,8910,5156
+Black,Boys,Non-FSM,All,All,All,All state-funded,All,43.5,%,12277,5340
+Black,Girls,Non-FSM,All,All,All,All state-funded,All,55.5,%,12393,6874
+Black African,Girls,Non-FSM,All,All,All,All state-funded,All,59.3,%,8157,4841
+Mixed White and Asian,All,All,All,All,All,All state-funded,All,60.9,%,6654,4049
+Mixed White and Asian,All,FSM,All,All,All,All state-funded,All,34,%,1062,361
+Black African,Boys,Non-FSM,All,All,All,All state-funded,All,48.7,%,7989,3889
+Mixed White and Asian,Boys,All,All,All,All,All state-funded,All,56.1,%,3410,1912
+Mixed White and Asian,Girls,All,All,All,All,All state-funded,All,65.9,%,3244,2137
+Mixed White and Asian,All,Non-FSM,All,All,All,All state-funded,All,66,%,5592,3688
+Black Caribbean,Boys,Non-FSM,All,All,All,All state-funded,All,32.4,%,2651,859
+Mixed White and Black African,All,All,All,All,All,All state-funded,All,50.3,%,3706,1863
+Black Caribbean,Girls,Non-FSM,All,All,All,All state-funded,All,44.6,%,2688,1198
+Black Other,Girls,Non-FSM,All,All,All,All state-funded,All,53.9,%,1548,835
+Mixed White and Black African,All,FSM,All,All,All,All state-funded,All,34.6,%,832,288
+Mixed White and Black African,All,Non-FSM,All,All,All,All state-funded,All,54.8,%,2874,1575
+Black Other,Boys,Non-FSM,All,All,All,All state-funded,All,36.2,%,1637,592
+Mixed White and Black African,Boys,All,All,All,All,All state-funded,All,45.3,%,1831,830
+Mixed White and Black African,Girls,All,All,All,All,All state-funded,All,55.1,%,1875,1033
+Other,All,All,All,All,All,Academies and free schools,All,52.2,%,7615,3972
+Other,Boys,All,All,All,All,Sponsored Academies,All,41.6,%,1538,640
+Other,Girls,All,All,All,All,Studio Schools,All,60,%,10,6
+Other,Girls,All,All,All,All,University Technical Colleges (UTCs),All,30.4,%,23,7
+Other,Girls,All,All,All,All,Sponsored Academies,All,50,%,1223,611
+Other,Girls,All,All,All,All,Free Schools,All,60.9,%,174,106
+Other,Boys,All,All,All,All,FE 14-16 Colleges,All,0,%,2,0
+Other,Boys,All,All,All,All,Studio Schools,All,33.3,%,24,8
+Other,Boys,All,All,All,All,University Technical Colleges (UTCs),All,34.9,%,43,15
+Other,All,All,All,All,All,Converter Academies,All,56.5,%,4358,2464
+Other,All,All,All,All,All,Studio Schools,All,41.2,%,34,14
+Other,Girls,All,All,All,All,Converter Academies,All,61.8,%,2226,1376
+Other,All,All,All,All,All,Sponsored Academies,All,45.3,%,2761,1251
+Other,All,All,All,All,All,University Technical Colleges (UTCs),All,33.3,%,66,22
+Other,Boys,All,All,All,All,Academies and free schools,All,47.1,%,3959,1866
+Other,Girls,All,All,All,All,Academies and free schools,All,57.6,%,3656,2106
+Other,Boys,All,All,All,All,Converter Academies,All,51,%,2132,1088
+Other,All,All,All,All,All,FE 14-16 Colleges,All,0,%,3,0
+Other,Girls,All,All,All,All,FE 14-16 Colleges,All,!,%,1,!
+Other,Boys,All,All,All,All,Free Schools,All,51.8,%,222,115
+Other,All,All,All,All,All,Free Schools,All,55.8,%,396,221
+Other,Girls,All,All,All,All,LA maintained mainstream,All,52.8,%,1375,726
+Other,Boys,All,All,All,All,LA maintained mainstream,All,44.8,%,1365,612
+Other,All,All,All,All,All,LA maintained mainstream,All,48.8,%,2740,1338
+Other,Girls,All,All,All,selective schools,State-funded mainstream,All,96.9,%,163,158
+Other,Girls,All,All,All,non-selective schools in highly selective areas,State-funded mainstream,All,59.9,%,162,97
+Other,Boys,All,All,All,non-selective schools in other areas,State-funded mainstream,All,45.3,%,4981,2256
+Other,Boys,All,All,All,selective schools,State-funded mainstream,All,97.9,%,142,139
+Other,Boys,All,All,All,non-selective schools in highly selective areas,State-funded mainstream,All,41.3,%,201,83
+Other,Girls,All,All,All,non-selective schools in other areas,State-funded mainstream,All,54.8,%,4706,2577
+Other,All,All,All,All,selective schools,State-funded mainstream,All,97.4,%,305,297
+Other,All,All,All,All,non-selective schools in other areas,State-funded mainstream,All,49.9,%,9687,4833
+Other,All,All,All,All,non-selective schools in highly selective areas,State-funded mainstream,All,49.6,%,363,180
+Other,Boys,All,All,All,All,State-funded mainstream,All,46.5,%,5326,2478
+Other,Boys,All,All,No identified SEN,All,All state-funded,All,50.4,%,4705,2369
+Other,Girls,All,All,Any SEN,All,All state-funded,All,22.2,%,436,97
+Mixed White and Black Caribbean,All,All,All,All,All,All state-funded,All,37.6,%,8028,3015
+Other,Boys,All,All,Any SEN,All,All state-funded,All,15,%,739,111
+Other,Girls,All,All,No identified SEN,All,All state-funded,All,58.9,%,4640,2735
+Other,All,All,All,All,All,All state-funded,All,50.5,%,10522,5312
+Other,Boys,All,SEN Supp,All,All,All state-funded,All,17.5,%,520,91
+Other,Boys,All,No SEN,All,All,All state-funded,All,50.4,%,4705,2369
+Other,Girls,All,No SEN,All,All,All state-funded,All,58.9,%,4640,2735
+Other,Girls,All,SEN Supp,All,All,All state-funded,All,25.8,%,365,94
+Other,Boys,All,SEN State EHC,All,All,All state-funded,All,9.1,%,219,20
+Other,All,All,All,Any SEN,All,All state-funded,All,17.7,%,1175,208
+Other,All,All,All,No identified SEN,All,All state-funded,All,54.6,%,9345,5104
+Other,All,All,No SEN,All,All,All state-funded,All,54.6,%,9345,5104
+Other,Girls,All,SEN State EHC,All,All,All state-funded,All,4.2,%,71,3
+Other,Girls,All,All,All,All,State-funded special schools,All,0,%,45,0
+Other,Boys,All,All,All,All,State-funded special schools,All,1.7,%,119,2
+Other,All,All,All,All,All,State-funded special schools,All,1.2,%,164,2
+Other,All,All,All,All,All,State-funded mainstream,All,51.3,%,10358,5310
+Other,Girls,All,All,All,All,State-funded mainstream,All,56.3,%,5032,2832
+Gypsy/Roma,Girls,Non-FSM,All,All,All,All state-funded,All,11.3,%,416,47
+Gypsy/Roma,Boys,Non-FSM,All,All,All,All state-funded,All,7.9,%,441,35
+Indian,Boys,Non-FSM,All,All,All,All state-funded,All,68.1,%,7721,5259
+Indian,Girls,Non-FSM,All,All,All,All state-funded,All,75.7,%,7265,5499
+Other,All,All,SEN State EHC,All,All,All state-funded,All,7.9,%,290,23
+Mixed White and Black Caribbean,All,FSM,All,All,All,All state-funded,All,23,%,2244,515
+Mixed White and Black Caribbean,Boys,All,All,All,All,All state-funded,All,32.4,%,3906,1264
+Mixed White and Black Caribbean,Girls,All,All,All,All,All state-funded,All,42.5,%,4122,1751
+Mixed White and Black Caribbean,All,Non-FSM,All,All,All,All state-funded,All,43.2,%,5784,2500
+Unknown,Girls,All,All,All,All,Academies and free schools,All,48.4,%,2743,1327
+Unknown,All,All,All,All,All,Academies and free schools,All,44.7,%,5779,2583
+Unknown,Girls,All,All,All,All,Studio Schools,All,42.4,%,33,14
+Unknown,Girls,All,All,All,All,Converter Academies,All,53.6,%,1787,958
+Unknown,Boys,All,All,All,All,University Technical Colleges (UTCs),All,34.6,%,81,28
+Unknown,Boys,All,All,All,All,Sponsored Academies,All,30.7,%,779,239
+Unknown,Boys,All,All,All,All,Free Schools,All,42.2,%,256,108
+Unknown,Boys,All,All,All,All,Studio Schools,All,31.3,%,32,10
+Unknown,All,All,All,All,All,University Technical Colleges (UTCs),All,37.3,%,126,47
+Unknown,All,All,All,All,All,Converter Academies,All,49.8,%,3675,1829
+Unknown,Boys,All,All,All,All,Converter Academies,All,46.1,%,1888,871
+Unknown,All,All,All,All,All,FE 14-16 Colleges,All,9.6,%,1884,181
+Unknown,All,All,All,All,All,Free Schools,All,44.5,%,449,200
+Unknown,Boys,All,All,All,All,Academies and free schools,All,41.4,%,3036,1256
+Unknown,Girls,All,All,All,All,FE 14-16 Colleges,All,12,%,980,118
+Unknown,Boys,All,All,All,All,FE 14-16 Colleges,All,7,%,904,63
+Unknown,Girls,All,All,All,All,Sponsored Academies,All,35.6,%,685,244
+Unknown,Girls,All,All,All,All,Free Schools,All,47.7,%,193,92
+Unknown,Girls,All,All,All,All,University Technical Colleges (UTCs),All,42.2,%,45,19
+Unknown,All,All,All,All,All,Sponsored Academies,All,33,%,1464,483
+Unknown,All,All,All,All,All,LA maintained mainstream,All,50.6,%,1766,893
+Unknown,Girls,All,All,All,All,LA maintained mainstream,All,53.2,%,814,433
+Unknown,Boys,All,All,All,All,LA maintained mainstream,All,48.3,%,952,460
+Unknown,Boys,All,SEN State EHC,All,All,All state-funded,All,7.9,%,227,18
+Unknown,Girls,All,All,All,non-selective schools in other areas,State-funded mainstream,All,48.8,%,3229,1575
+Unknown,Girls,All,All,All,non-selective schools in highly selective areas,State-funded mainstream,All,34,%,209,71
+Unknown,Boys,All,All,All,non-selective schools in other areas,State-funded mainstream,All,41.7,%,3606,1503
+Unknown,Boys,All,All,All,selective schools,State-funded mainstream,All,94.3,%,157,148
+Unknown,Boys,All,All,All,non-selective schools in highly selective areas,State-funded mainstream,All,29.2,%,226,66
+Unknown,All,All,All,All,selective schools,State-funded mainstream,All,94.6,%,277,262
+Unknown,All,All,All,All,non-selective schools in highly selective areas,State-funded mainstream,All,31.5,%,435,137
+Unknown,All,All,All,All,non-selective schools in other areas,State-funded mainstream,All,45,%,6835,3078
+Unknown,Girls,All,All,All,selective schools,State-funded mainstream,All,95,%,120,114
+Unknown,Girls,All,All,All,All,State-funded mainstream,All,41.4,%,4538,1878
+Unknown,All,All,All,All,All,State-funded mainstream,All,38.8,%,9431,3658
+Unknown,Girls,All,All,Any SEN,All,All state-funded,All,16.8,%,399,67
+Unknown,Girls,All,All,No identified SEN,All,All state-funded,All,53,%,3196,1693
+Other,All,All,SEN Supp,All,All,All state-funded,All,20.9,%,885,185
+Unknown,Boys,All,All,No identified SEN,All,All state-funded,All,47.8,%,3361,1606
+Pakistani,All,All,All,All,All,All state-funded,All,47.8,%,24275,11595
+Unknown,Boys,All,All,Any SEN,All,All state-funded,All,15.3,%,732,112
+Unknown,Boys,All,SEN Supp,All,All,All state-funded,All,18.6,%,505,94
+Unknown,Girls,All,No SEN,All,All,All state-funded,All,53,%,3196,1693
+Unknown,Girls,All,SEN State EHC,All,All,All state-funded,All,5.9,%,85,5
+Unknown,Girls,All,SEN Supp,All,All,All state-funded,All,19.7,%,314,62
+Unknown,All,All,All,All,All,All state-funded,All,38.2,%,9570,3659
+Unknown,All,All,All,Any SEN,All,All state-funded,All,15.8,%,1131,179
+Unknown,All,All,All,No identified SEN,All,All state-funded,All,50.3,%,6557,3299
+Unknown,Boys,All,No SEN,All,All,All state-funded,All,47.8,%,3361,1606
+Unknown,Girls,All,All,All,All,State-funded special schools,All,0,%,36,0
+Unknown,Boys,All,All,All,All,State-funded special schools,All,1,%,103,1
+Unknown,All,All,All,All,All,State-funded special schools,All,0.7,%,139,1
+Unknown,Boys,All,All,All,All,State-funded mainstream,All,36.4,%,4893,1780
+Unknown,All,All,All,All,All,Studio Schools,All,36.9,%,65,24
+White,Boys,All,All,All,All,Academies and free schools,All,46.8,%,158992,74434
+White,Boys,All,All,All,All,Studio Schools,All,32.1,%,470,151
+White,Boys,All,All,All,All,FE 14-16 Colleges,All,0,%,62,0
+White,Girls,All,All,All,All,Sponsored Academies,All,42.9,%,40584,17422
+White,Girls,All,All,All,All,Converter Academies,All,58.5,%,110320,64569
+White,Boys,All,All,All,All,Sponsored Academies,All,35.6,%,42349,15092
+White,Boys,All,All,All,All,University Technical Colleges (UTCs),All,35.9,%,1906,684
+White,Girls,All,All,All,All,Free Schools,All,53.9,%,2609,1406
+White,Girls,All,All,All,All,FE 14-16 Colleges,All,0,%,19,0
+White,Boys,All,All,All,All,Free Schools,All,49.7,%,2944,1462
+White,All,All,All,All,All,Free Schools,All,51.6,%,5553,2868
+White,All,All,All,All,All,University Technical Colleges (UTCs),All,38,%,2638,1002
+White,All,All,All,All,All,FE 14-16 Colleges,All,0,%,81,0
+White,Girls,All,All,All,All,Studio Schools,All,35.7,%,395,141
+White,All,All,All,All,All,Sponsored Academies,All,39.2,%,82933,32514
+White,All,All,All,All,All,Studio Schools,All,33.8,%,865,292
+White,Girls,All,All,All,All,Academies and free schools,All,54.2,%,154640,83856
+White,All,All,All,All,All,Academies and free schools,All,50.5,%,313632,158290
+White,Boys,All,All,All,All,Converter Academies,All,51.2,%,111323,57045
+White,Girls,All,All,All,All,University Technical Colleges (UTCs),All,43.4,%,732,318
+White,All,All,All,All,All,Converter Academies,All,54.9,%,221643,121614
+White,Girls,All,All,All,All,LA maintained mainstream,All,52.5,%,46424,24380
+White,Boys,All,All,All,All,LA maintained mainstream,All,45.3,%,47063,21331
+White,All,All,All,All,All,LA maintained mainstream,All,48.9,%,93487,45711
+Unknown,All,All,No SEN,All,All,All state-funded,All,50.3,%,6557,3299
+Unknown,All,All,SEN State EHC,All,All,All state-funded,All,7.4,%,312,23
+Other,All,FSM,All,All,All,All state-funded,All,39.4,%,2783,1097
+Other,Boys,All,All,All,All,All state-funded,All,45.5,%,5445,2480
+Other,Girls,All,All,All,All,All state-funded,All,55.8,%,5077,2832
+Irish Traveller,Girls,Non-FSM,All,All,All,All state-funded,All,31.8,%,44,14
+Other,All,Non-FSM,All,All,All,All state-funded,All,54.5,%,7739,4215
+White,Boys,All,All,All,selective schools,State-funded mainstream,All,93.9,%,7999,7513
+White,Girls,All,All,All,non-selective schools in other areas,State-funded mainstream,All,52.9,%,179475,94931
+White,Boys,All,All,All,non-selective schools in other areas,State-funded mainstream,All,45.3,%,184304,83569
+White,Girls,All,All,All,non-selective schools in highly selective areas,State-funded mainstream,All,41.2,%,13632,5618
+White,All,All,All,All,selective schools,State-funded mainstream,All,95,%,16169,15359
+White,Boys,All,All,All,non-selective schools in highly selective areas,State-funded mainstream,All,34.5,%,13967,4823
+White,All,All,All,All,non-selective schools in highly selective areas,State-funded mainstream,All,37.8,%,27599,10441
+White,Girls,All,All,All,selective schools,State-funded mainstream,All,96,%,8170,7846
+White,All,All,All,All,non-selective schools in other areas,State-funded mainstream,All,49.1,%,363779,178500
+White,Girls,All,All,All,All,State-funded mainstream,All,53.8,%,201296,108395
+White,Girls,All,All,Any SEN,All,All state-funded,All,20.2,%,23773,4811
+White,Boys,All,All,No identified SEN,All,All state-funded,All,52.3,%,171888,89822
+White,Boys,All,All,Any SEN,All,All state-funded,All,15.1,%,40881,6157
+Unknown,All,All,SEN Supp,All,All,All state-funded,All,19,%,819,156
+White,All,All,All,All,All,All state-funded,All,49.1,%,416504,204392
+White,Girls,All,All,No identified SEN,All,All state-funded,All,57.6,%,179904,103602
+White,Boys,All,SEN State EHC,All,All,All state-funded,All,6.6,%,12311,810
+White,Boys,All,No SEN,All,All,All state-funded,All,52.3,%,171888,89822
+White,Girls,All,SEN Supp,All,All,All state-funded,All,23.7,%,19092,4524
+White,Boys,All,SEN Supp,All,All,All state-funded,All,18.7,%,28570,5347
+White,All,All,All,Any SEN,All,All state-funded,All,17,%,64654,10968
+White,Girls,All,No SEN,All,All,All state-funded,All,57.6,%,179904,103602
+Irish Traveller,Boys,Non-FSM,All,All,All,All state-funded,All,33.3,%,27,9
+White,Girls,All,SEN State EHC,All,All,All state-funded,All,6.1,%,4681,287
+White,All,All,All,No identified SEN,All,All state-funded,All,55,%,351792,193424
+Mixed,Boys,Non-FSM,All,All,All,All state-funded,All,51.6,%,11618,5996
+Mixed,Girls,Non-FSM,All,All,All,All state-funded,All,60,%,11542,6923
+White,Boys,All,All,All,All,State-funded special schools,All,1.1,%,6479,74
+White,Girls,All,All,All,All,State-funded special schools,All,0.8,%,2397,18
+White,All,All,All,All,All,State-funded special schools,All,1,%,8876,92
+White,Boys,All,All,All,All,State-funded mainstream,All,46.5,%,206332,95905
+White,All,All,All,All,All,State-funded mainstream,All,50.1,%,407628,204300
+Mixed Other,Girls,Non-FSM,All,All,All,All state-funded,All,61.5,%,4367,2684
+Mixed Other,Boys,Non-FSM,All,All,All,All state-funded,All,54.4,%,4543,2472
+Mixed White and Asian,Boys,Non-FSM,All,All,All,All state-funded,All,61.5,%,2852,1753
+Mixed White and Asian,Girls,Non-FSM,All,All,All,All state-funded,All,70.6,%,2740,1935
+White,All,All,No SEN,All,All,All state-funded,All,55,%,351792,193424
+Pakistani,All,FSM,All,All,All,All state-funded,All,38.4,%,5162,1980
+Pakistani,Boys,All,All,All,All,All state-funded,All,45.2,%,12280,5553
+Pakistani,All,Non-FSM,All,All,All,All state-funded,All,50.3,%,19113,9615
+Pakistani,Girls,All,All,All,All,All state-funded,All,50.4,%,11995,6042
+Mixed White and Black African,Girls,Non-FSM,All,All,All,All state-funded,All,59.6,%,1454,867
+Mixed White and Black African,Boys,Non-FSM,All,All,All,All state-funded,All,49.9,%,1420,708
+Mixed White and Black Caribbean,Girls,Non-FSM,All,All,All,All state-funded,All,48.2,%,2981,1437
+Mixed White and Black Caribbean,Boys,Non-FSM,All,All,All,All state-funded,All,37.9,%,2803,1063
+White,All,All,SEN State EHC,All,All,All state-funded,All,6.5,%,16992,1097
+Unknown,Boys,All,All,All,All,All state-funded,All,35.6,%,4996,1781
+Unknown,All,FSM,All,All,All,All state-funded,All,26.5,%,1411,374
+Unknown,Girls,All,All,All,All,All state-funded,All,41.1,%,4574,1878
+Unknown,All,Non-FSM,All,All,All,All state-funded,All,40.3,%,8159,3285
+Pakistani,Boys,Non-FSM,All,All,All,All state-funded,All,47.8,%,9759,4662
+Pakistani,Girls,Non-FSM,All,All,All,All state-funded,All,53,%,9354,4953
+White,Boys,Non-FSM,All,All,All,All state-funded,All,49.2,%,182541,89887
+White,Girls,Non-FSM,All,All,All,All state-funded,All,57.7,%,174660,100764
+White,All,All,SEN Supp,All,All,All state-funded,All,20.7,%,47662,9871
+White,All,FSM,All,All,All,All state-funded,All,23.2,%,59303,13741
+White,Boys,All,All,All,All,All state-funded,All,45.1,%,212811,95979
+White,All,Non-FSM,All,All,All,All state-funded,All,53.4,%,357201,190651
+White,Girls,All,All,All,All,All state-funded,All,53.2,%,203693,108413
+White British,All,All,All,All,All,All state-funded,All,49.2,%,383021,188497
+White British,All,FSM,All,All,All,All state-funded,All,22.7,%,55375,12585
+White British,All,Non-FSM,All,All,All,All state-funded,All,53.7,%,327646,175912
+White British,Boys,All,All,All,All,All state-funded,All,45.3,%,195714,88592
+White British,Girls,Non-FSM,All,All,All,All state-funded,All,58,%,160184,92888
+White British,Boys,Non-FSM,All,All,All,All state-funded,All,49.6,%,167462,83024
+White British,Girls,All,All,All,All,All state-funded,All,53.3,%,187307,99905
+White Irish,Girls,Non-FSM,All,All,All,All state-funded,All,68.2,%,711,485
+White Irish,Boys,Non-FSM,All,All,All,All state-funded,All,61.8,%,714,441
+White Irish,All,All,All,All,All,All state-funded,All,60.2,%,1648,992
+White Irish,All,FSM,All,All,All,All state-funded,All,29.6,%,223,66
+White Irish,All,Non-FSM,All,All,All,All state-funded,All,65,%,1425,926
+White Irish,Boys,All,All,All,All,All state-funded,All,56.8,%,837,475
+White Other,Boys,Non-FSM,All,All,All,All state-funded,All,45.9,%,13897,6378
+White Other,Girls,Non-FSM,All,All,All,All state-funded,All,55.1,%,13305,7330
+White Irish,Girls,All,All,All,All,All state-funded,All,63.7,%,811,517
+Chinese,Boys,Non-FSM,All,All,All,All state-funded,All,75.7,%,882,668
+Chinese,Girls,Non-FSM,All,All,All,All state-funded,All,84.3,%,937,790
+White Other,All,All,All,All,All,All state-funded,All,48.7,%,30321,14762
+White Other,All,FSM,All,All,All,All state-funded,All,33.8,%,3119,1054
+White Other,All,Non-FSM,All,All,All,All state-funded,All,50.4,%,27202,13708
+White Other,Boys,All,All,All,All,All state-funded,All,44.2,%,15498,6854
+Other,Boys,Non-FSM,All,All,All,All state-funded,All,49.2,%,3971,1952
+Other,Girls,Non-FSM,All,All,All,All state-funded,All,60.1,%,3768,2263
+White Other,Girls,All,All,All,All,All state-funded,All,53.3,%,14823,7908
+Unknown,Boys,Non-FSM,All,All,All,All state-funded,All,37.6,%,4243,1597
+Unknown,Girls,Non-FSM,All,All,All,All state-funded,All,43.1,%,3916,1688
