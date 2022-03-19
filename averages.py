@@ -1,8 +1,11 @@
-import matplotlib, csv, pandas as pd
+import pandas as pd
+import matplotlib
+import csv
+import pandas as pd
 from numpy import average
 
-data = pd.read_csv("data.csv")
 
+data = pd.read_csv("data.csv")
 ethnicity = data["Ethnicity"]
 gender = data["Gender"]
 freeSchoolMeals = data["FSM"]
@@ -15,28 +18,38 @@ value = data["Value"]
 denominator = data["Denominator"]
 numerator = data["Numerator"]
 
-def gender_avg():
-    bSum = 0  
-    gSum = 0
-    aSum = 0
-    bSum2 = 0  
-    gSum2 = 0
-    aSum2 = 0
-    
-    for i, val in gender.iteritems():
-        if gender[i] == "Boys":
-            if value[i] == '!':
-                value[i] = 0
-            f = float(value[i])
-        if value[i] =="Boys":
-            bSum2 = bSum2+1
-            bsum = bsum + f
-        if value[i] =="Girls":
-            gSum2 = gSum2+1
-            gSum = gSum + f
-        if value[i] =="All":
-            aSum2 = aSum2+1
-            asum = asum + f
-    print(bSum2)
-    
-    gender_avg()
+
+print(type(value[0]))
+
+def calcAvg(dict):
+  dict["Boys"] = [float(x) for x in dict["Boys"]]
+  print(len(dict["Boys"]))
+  numOfTings = len(dict["Boys"])
+  total = sum(dict["Boys"])
+  print(type(dict["Boys"][0]))
+  print(dict["Boys"][0])
+  print(total)
+  print(numOfTings)
+  average = (total/numOfTings)
+  average = "{:.2f}".format(average)
+  print(average)
+  
+
+def averageComputing(criteria, value):
+  keys = criteria.drop_duplicates(keep = "first", inplace = False)
+  dict = {}
+  for n in keys:
+    dict[n] = []
+
+  for x, valx in keys.iteritems():
+    for i, val in criteria.iteritems():
+      if keys[x] == criteria[i]:
+        if value[i] != "!":
+          dict[gender[i]].append(value[i])
+  calcAvg(dict)
+  
+
+        
+        
+
+averageComputing(gender, value)
