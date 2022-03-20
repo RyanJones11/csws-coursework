@@ -30,6 +30,7 @@ def calcAvg(dict, keys):
       average = "{:.2f}".format(average)
     print(keys[x] +": " +average +"%")
 
+
 def averageComputing(criteria, value):
     keys = criteria.drop_duplicates(keep="first", inplace=False)
     dict = {}
@@ -43,12 +44,20 @@ def averageComputing(criteria, value):
                     dict[criteria[i]].append(value[i])
     calcAvg(dict, keys)
 
+print("Ethnicity Average:")
 averageComputing(ethnicity, value)
+print("\n Gender Average:")
 averageComputing(gender, value)
+print("\n Free School Meals Average:")
 averageComputing(freeSchoolMeals, value)
+print("\n Sen Type Average:")
 averageComputing(senType, value)
+print("\n Sen Group Average:")
 averageComputing(senGroup, value)
+print("\n Admission Type Average:")
 averageComputing(admissionType, value)
+print("\n School Characteristic Average:")
 averageComputing(schoolCharacteristic, value)
+print("\n religion Averagep:")
 averageComputing(religion, value)
 
