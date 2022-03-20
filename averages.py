@@ -1,8 +1,7 @@
 import pandas as pd
-import matplotlib
+import matplotlib as plt
 import csv
 import pandas as pd
-from numpy import average
 
 
 data = pd.read_csv("data.csv")
@@ -18,17 +17,22 @@ value = data["Value"]
 denominator = data["Denominator"]
 numerator = data["Numerator"]
 
+def dataStorage(average, i):
+    print(i)
+    
 
 def calcAvg(dict, keys):
-  average = 0
-  for x, valx in keys.iteritems():
-    dict[keys[x]] = [float(x) for x in dict[keys[x]]]
-    numOfThings = len(dict[keys[x]])
-    total = sum(dict[keys[x]])
-    if numOfThings != 0:
-      average = (total/numOfThings)
-      average = "{:.2f}".format(average)
-    print(keys[x] +": " +average +"%")
+    i=0
+    for x, valx in keys.iteritems():
+        dict[keys[x]] = [float(x) for x in dict[keys[x]]]
+        numOfThings = len(dict[keys[x]])
+        total = sum(dict[keys[x]])
+        if numOfThings != 0:
+            average = (total/numOfThings)
+            average = "{:.2f}".format(average)
+        print(x)
+        #print(keys[x] +": " +average +"%")
+        #dataStorage(average, i)
 
 
 def averageComputing(criteria, value):
@@ -44,6 +48,7 @@ def averageComputing(criteria, value):
                     dict[criteria[i]].append(value[i])
     calcAvg(dict, keys)
 
+
 print("Ethnicity Average:")
 averageComputing(ethnicity, value)
 print("\n Gender Average:")
@@ -58,6 +63,10 @@ print("\n Admission Type Average:")
 averageComputing(admissionType, value)
 print("\n School Characteristic Average:")
 averageComputing(schoolCharacteristic, value)
-print("\n religion Averagep:")
+print("\n religion Average:")
 averageComputing(religion, value)
+
+# print(results["ethnicity"])
+# print(type(ethnicity))
+# print(type(results["ethnicity"]))
 
