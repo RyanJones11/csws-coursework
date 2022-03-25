@@ -1,7 +1,5 @@
 import pandas as pd
-import matplotlib as plt
-import csv
-import pandas as pd
+import matplotlib.pyplot as plt
 
 
 data = pd.read_csv("data.csv")
@@ -16,13 +14,11 @@ religion = data["Religious_denomination"]
 value = data["Value"]
 denominator = data["Denominator"]
 numerator = data["Numerator"]
-
-def dataStorage(average, i):
-    print(i)
+resultNames = []
+resultValues = []
     
 
 def calcAvg(dict, keys):
-    i=0
     for x, valx in keys.iteritems():
         dict[keys[x]] = [float(x) for x in dict[keys[x]]]
         numOfThings = len(dict[keys[x]])
@@ -30,9 +26,10 @@ def calcAvg(dict, keys):
         if numOfThings != 0:
             average = (total/numOfThings)
             average = "{:.2f}".format(average)
-        print(x)
         #print(keys[x] +": " +average +"%")
-        #dataStorage(average, i)
+        average = float(average)
+        resultNames.append(keys[x])
+        resultValues.append(average)
 
 
 def averageComputing(criteria, value):
@@ -49,24 +46,29 @@ def averageComputing(criteria, value):
     calcAvg(dict, keys)
 
 
-print("Ethnicity Average:")
+#print("Ethnicity Average:")
 averageComputing(ethnicity, value)
-print("\n Gender Average:")
+#print("\n Gender Average:")
 averageComputing(gender, value)
-print("\n Free School Meals Average:")
+#print("\n Free School Meals Average:")
 averageComputing(freeSchoolMeals, value)
-print("\n Sen Type Average:")
+#print("\n Sen Type Average:")
 averageComputing(senType, value)
-print("\n Sen Group Average:")
+#print("\n Sen Group Average:")
 averageComputing(senGroup, value)
-print("\n Admission Type Average:")
+#print("\n Admission Type Average:")
 averageComputing(admissionType, value)
-print("\n School Characteristic Average:")
+#print("\n School Characteristic Average:")
 averageComputing(schoolCharacteristic, value)
-print("\n religion Average:")
+#print("\n religion Average:")
 averageComputing(religion, value)
 
-# print(results["ethnicity"])
-# print(type(ethnicity))
-# print(type(results["ethnicity"]))
+
+fig, ax = plt.subplots()
+
+ax.set_title("Bar plot")
+ax.bar(resultNames, resultValues)
+ax.set_yticks(range(0,100,10))
+plt.xticks(rotation=60, ha='right')
+plt.show()
 
