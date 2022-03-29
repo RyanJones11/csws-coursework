@@ -414,7 +414,6 @@ def averages():
             if numOfThings != 0:
                 average = (total/numOfThings)
                 average = "{:.2f}".format(average)
-            #print(keys[x] +": " +average +"%")
             average = float(average)
             resultNames.append(keys[x])
             resultValues.append(average)
@@ -437,21 +436,20 @@ def averages():
         calcAvg(dict, keys)
 
     #passing the required parameters into the first function to allow the data to be processed
-    #print("Ethnicity Average:")
     averageComputing(ethnicity, value)
-    #print("\n Gender Average:")
+   
     averageComputing(gender, value)
-    #print("\n Free School Meals Average:")
+    
     averageComputing(freeSchoolMeals, value)
-    #print("\n Sen Type Average:")
+    
     averageComputing(senType, value)
-    #print("\n Sen Group Average:")
+    
     averageComputing(senGroup, value)
-    #print("\n Admission Type Average:")
+    
     averageComputing(admissionType, value)
-    #print("\n School Characteristic Average:")
+    
     averageComputing(schoolCharacteristic, value)
-    #print("\n religion Average:")
+    
     averageComputing(religion, value)
 
 
