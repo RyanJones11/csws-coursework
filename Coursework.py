@@ -37,7 +37,7 @@ value = data["Value"]
 #                                                               #
 #                                                               #
 #################################################################
-def menu():
+def menu(ethnicity, gender, freeSchoolMeals, senType, senGroup, admissionType, schoolCharacteristic, religion, value):
     repeat=True
     while repeat==True:
         menuSelect=0
@@ -48,11 +48,11 @@ def menu():
             repeat = True
         elif menuSelect == "2":
             print ("Co Efficient")
-            CoefficientOfDev()
+            CoefficientOfDev(ethnicity, gender, freeSchoolMeals, senType, senGroup, admissionType, schoolCharacteristic, religion, value)
             repeat =True
         elif menuSelect == "3":
             print ("Total Passing")
-            TotalPassing()
+            TotalPassing(ethnicity, gender, freeSchoolMeals, senType, senGroup, admissionType, schoolCharacteristic, religion, value)
             repeat = True
         elif menuSelect == "4":
             print ("Averages")
@@ -385,4 +385,4 @@ def TotalPassing(ethnicity, gender, freeSchoolMeals, senType, senGroup, admissio
 
 
 # Runs the menu
-menu()
+menu(ethnicity, gender, freeSchoolMeals, senType, senGroup, admissionType, schoolCharacteristic, religion, value)
