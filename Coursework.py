@@ -1,3 +1,5 @@
+from cgitb import reset
+from unittest import result
 import pandas as pd
 import csv
 import math
@@ -75,7 +77,7 @@ def menu(ethnicity, gender, freeSchoolMeals, senType, senGroup, admissionType, s
 #################################################################
 def CoefficientOfDev(ethnicity, gender, freeSchoolMeals, senType, senGroup, admissionType, schoolCharacteristic, religion, value):
     # Calculates coeficient of variation.
-
+    
 
     # Creates Series
     CoefVariableList = []
@@ -287,7 +289,20 @@ def CoefficientOfDev(ethnicity, gender, freeSchoolMeals, senType, senGroup, admi
     for i, val in myKeys.iteritems():
         religionCoef(myKeys[i])
 
+    # Creates settings for plot
+    fig, axs = plt.subplots()
+    axs.set_title("Coefficient of Standard Deviation Per Group", fontsize=16)
+    axs.set_xlabel("Categories", fontsize= 12)
+    axs.set_ylabel("Coefficient of Standard Deviation %", fontsize= 12)
+    axs.plot(CoefVariableList, CoefValueList)
 
+    # Adjusts rotation of labels by 45 Degrees
+    plt.setp(axs.get_xticklabels(), rotation = 45, horizontalalignment = 'right')
+
+    # Creates tight layout so everything fits
+    plt.tight_layout()
+
+    plt.show()
 
 
 #################################################################
@@ -315,35 +330,37 @@ def TotalPassing(ethnicity, gender, freeSchoolMeals, senType, senGroup, admissio
         for x, valx in variableKeys.iteritems():
             for i, val in ethnicity.iteritems():
                 if myIndex == 1:
-                    if ethnicity[i] == variableKeys[x] and gender[i] == "All" and freeSchoolMeals[i] == "All" and senType[i] == "All" and senGroup[i] == "All" and admissionType[i] == "All" and schoolCharacteristic[i] == "All state-funded" and religion[i] == "All" and value[i] < 101:
+                    if ethnicity[i] == variableKeys[x] and gender[i] == "All" and freeSchoolMeals[i] == "All" and senType[i] == "All" and senGroup[i] == "All" and admissionType[i] == "All" and schoolCharacteristic[i] == "All state-funded" and religion[i] == "All" and value[i] > -1:
                         PrintPassing(ethnicity, i)
                 if myIndex == 2:
-                    if ethnicity[i] == "All" and gender[i] == variableKeys[x] and gender[i] != "All" and freeSchoolMeals[i] == "All" and senType[i] == "All" and senGroup[i] == "All" and admissionType[i] == "All" and schoolCharacteristic[i] == "All state-funded" and religion[i] == "All" and value[i] < 101:
+                    if ethnicity[i] == "All" and gender[i] == variableKeys[x] and gender[i] != "All" and freeSchoolMeals[i] == "All" and senType[i] == "All" and senGroup[i] == "All" and admissionType[i] == "All" and schoolCharacteristic[i] == "All state-funded" and religion[i] == "All" and value[i] > -1:
                         PrintPassing(gender, i)
                 if myIndex == 3:
-                    if ethnicity[i] == "All" and gender[i] == "All" and freeSchoolMeals[i] == variableKeys[x] and freeSchoolMeals[i] != "All" and senType[i] == "All" and senGroup[i] == "All" and admissionType[i] == "All" and schoolCharacteristic[i] == "All state-funded" and religion[i] == "All" and value[i] < 101:
+                    if ethnicity[i] == "All" and gender[i] == "All" and freeSchoolMeals[i] == variableKeys[x] and freeSchoolMeals[i] != "All" and senType[i] == "All" and senGroup[i] == "All" and admissionType[i] == "All" and schoolCharacteristic[i] == "All state-funded" and religion[i] == "All" and value[i] > -1:
                         PrintPassing(freeSchoolMeals, i)
                 if myIndex == 4:
-                    if ethnicity[i] == "All" and gender[i] == "All" and freeSchoolMeals[i] == "All" and senType[i] == variableKeys[x] and senType[i] != "All" and senGroup[i] == "All" and admissionType[i] == "All" and schoolCharacteristic[i] == "All state-funded" and religion[i] == "All" and value[i] < 101:
+                    if ethnicity[i] == "All" and gender[i] == "All" and freeSchoolMeals[i] == "All" and senType[i] == variableKeys[x] and senType[i] != "All" and senGroup[i] == "All" and admissionType[i] == "All" and schoolCharacteristic[i] == "All state-funded" and religion[i] == "All" and value[i] > -1:
                         PrintPassing(senType, i)
                 if myIndex == 5:
-                    if ethnicity[i] == "All" and gender[i] == "All" and freeSchoolMeals[i] == "All" and senType[i] == "All" and senGroup[i] == variableKeys[x] and senGroup[i] != "All" and admissionType[i] == "All" and schoolCharacteristic[i] == "All state-funded" and religion[i] == "All" and value[i] < 101:
+                    if ethnicity[i] == "All" and gender[i] == "All" and freeSchoolMeals[i] == "All" and senType[i] == "All" and senGroup[i] == variableKeys[x] and senGroup[i] != "All" and admissionType[i] == "All" and schoolCharacteristic[i] == "All state-funded" and religion[i] == "All" and value[i] > -1:
                         PrintPassing(senGroup, i)
                 if myIndex == 6:
-                    if ethnicity[i] == "All" and gender[i] == "All" and freeSchoolMeals[i] == "All" and senType[i] == "All" and senGroup[i] == "All" and admissionType[i] == variableKeys[x] and admissionType[i] != "All" and schoolCharacteristic[i] == "All state-funded" and religion[i] == "All" and value[i] < 101:
+                    if ethnicity[i] == "All" and gender[i] == "All" and freeSchoolMeals[i] == "All" and senType[i] == "All" and senGroup[i] == "All" and admissionType[i] == variableKeys[x] and admissionType[i] != "All" and schoolCharacteristic[i] == "All state-funded" and religion[i] == "All" and value[i] > -1:
                         PrintPassing(admissionType, i)
                 if myIndex == 7:
-                    if ethnicity[i] == "All" and gender[i] == "All" and freeSchoolMeals[i] == "All" and senType[i] == "All" and senGroup[i] == "All" and admissionType[i] == "All" and schoolCharacteristic[i] == variableKeys[x] and schoolCharacteristic[i] != "All state-funded" and religion[i] == "All" and value[i] < 101:
+                    if ethnicity[i] == "All" and gender[i] == "All" and freeSchoolMeals[i] == "All" and senType[i] == "All" and senGroup[i] == "All" and admissionType[i] == "All" and schoolCharacteristic[i] == variableKeys[x] and schoolCharacteristic[i] != "All state-funded" and religion[i] == "All" and value[i] > -1:
                         PrintPassing(schoolCharacteristic, i)
                 if myIndex == 8:
-                    if ethnicity[i] == "All" and gender[i] == "All" and freeSchoolMeals[i] == "All" and senType[i] == "All" and senGroup[i] == "All" and admissionType[i] == "All" and schoolCharacteristic[i] == "All state-funded" and religion[i] == variableKeys[x] and religion[i] != "All" and value[i] < 101:
+                    if ethnicity[i] == "All" and gender[i] == "All" and freeSchoolMeals[i] == "All" and senType[i] == "All" and senGroup[i] == "All" and admissionType[i] == "All" and schoolCharacteristic[i] == "All state-funded" and religion[i] == variableKeys[x] and religion[i] != "All" and value[i] > -1:
                         PrintPassing(religion, i)
 
 
     # Changes all 
     for x, valx in value.iteritems():
         if value[x] == "!":
-            value[x] = "200"
+            value[x] = "-1"
+            
+        
 
     # Changes all values to numeric
     value = pd.to_numeric(value)
@@ -358,6 +375,42 @@ def TotalPassing(ethnicity, gender, freeSchoolMeals, senType, senGroup, admissio
     CalcPassing(schoolCharacteristic, 7)
     CalcPassing(religion, 8)
 
+    # Creates color range for plot
+    col = ['blue', 'orange',  'orange', 'orange', 'orange', 'orange', 'orange', 'orange', 'orange', 'orange', 'orange', 'orange',
+     'orange', 'orange', 'orange', 'orange', 'orange', 'orange', 'orange', 'orange', 'orange', 'orange', 'orange', 'orange', 'green',
+     'green', 'black', 'black', 'red', 'red', 'red', 'yellow', 'yellow', 'lime', 'lime', 'lime', 'burlywood', 'burlywood', 'burlywood'
+     , 'burlywood', 'burlywood', 'burlywood', 'burlywood', 'burlywood', 'burlywood', 'burlywood', 'indigo', 'indigo', 'indigo', 'indigo'
+     , 'indigo', 'indigo', 'indigo']
+
+    # Creates a bar chart of the data
+    fig, axs = plt.subplots()
+    axs.set_title("Total Passing Percent", fontsize=16)
+    axs.set_xlabel("Categories", fontsize= 12)
+    axs.set_ylabel("Percent Passing %", fontsize= 12)
+    axs.bar(variableList, valueList, color = col)
+
+    # Creates Legend Patches
+    blue_patch = mpatches.Patch(color='blue', label= 'All Data')
+    orange_patch = mpatches.Patch(color='orange', label= 'Ethnicity')
+    green_patch = mpatches.Patch(color='green', label= 'Gender')
+    black_patch = mpatches.Patch(color='black', label= 'Free School Meals')
+    red_patch = mpatches.Patch(color='red', label= 'SEN Type')
+    yellow_patch = mpatches.Patch(color='yellow', label= 'SEN Group')
+    lime_patch = mpatches.Patch(color='lime', label= 'Admission Type')
+    burlywood_patch = mpatches.Patch(color='burlywood', label= 'School Characteristic')
+    indigo_patch = mpatches.Patch(color='indigo', label= 'Religion')
+
+    # Adds Legend outside of chart
+    axs.legend(handles=[blue_patch, orange_patch, green_patch, black_patch, red_patch, yellow_patch, lime_patch, burlywood_patch, indigo_patch], bbox_to_anchor = (1.05, 1))
+    
+    # Adjusts rotation of labels by 45 Degrees
+    plt.setp(axs.get_xticklabels(), rotation = 45, horizontalalignment = 'right')
+
+    # Creates tight layout so everything fits
+    plt.tight_layout()
+
+    # Displays chart
+    plt.show()
     
 
     
@@ -460,7 +513,18 @@ def averages():
     averageComputing(religion, value)
     print("Done")
 
+    fig, axs = plt.subplots()
 
+    axs.set_title("Average Record Pass Rate", fontsize=16)
+    axs.set_xlabel("Categories", fontsize= 12)
+    axs.set_ylabel("Percent Passing %", fontsize= 12)
+    axs.bar(resultNames, resultValues)
+    plt.xticks(rotation = 45, horizontalalignment='right')
+    plt.tight_layout()
+    plt.grid()
+    plt.plot()
+    plt.show()
+    
 
 
 
