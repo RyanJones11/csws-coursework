@@ -60,7 +60,6 @@ def menu():
         else:
             print ("Invalid answer, please re enter")
             repeat = True
-menu()
 #################################################################
 #                                                               #
 #                                                               #
@@ -385,6 +384,5 @@ def TotalPassing(ethnicity, gender, freeSchoolMeals, senType, senGroup, admissio
 
 
 
-# This is temporary code. REMOVE IT WHEN MENU IS IMPLEMENTED!
-TotalPassing(ethnicity, gender, freeSchoolMeals, senType, senGroup, admissionType, schoolCharacteristic, religion, value)
-CoefficientOfDev(ethnicity, gender, freeSchoolMeals, senType, senGroup, admissionType, schoolCharacteristic, religion, value)
+# Runs the menu
+menu()
