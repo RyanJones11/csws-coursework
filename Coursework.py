@@ -1,5 +1,3 @@
-from cgitb import reset
-from unittest import result
 import pandas as pd
 import csv
 import math
