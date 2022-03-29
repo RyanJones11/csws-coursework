@@ -6,6 +6,24 @@ import matplotlib.patches as mpatches
 
 
 
+# Reads the data from file.
+data = pd.read_csv("gcse-english-and-maths-national-data-2019-20.csv")
+
+# Load required columns
+ethnicity = data["Ethnicity"]
+gender = data["Gender"]
+freeSchoolMeals = data["FSM"]
+senType = data["SEN_type"]
+senGroup = data["SEN_grouping"]
+admissionType = data["Admission_type"]
+schoolCharacteristic = data["School_characteristic"]
+religion = data["Religious_denomination"]
+value = data["Value"]
+denominator = data["Denominator"]
+numerator = data["Numerator"]
+
+
+
 #################################################################
 #                                                               #
 #                                                               #
@@ -168,21 +186,6 @@ def CoefficientOfDev():
         newList2 = pd.Series(newList)
         CoefValueList.append(myCoef(newList2)*100)
 
-    # Reads the data from file.
-    data = pd.read_csv("gcse-english-and-maths-national-data-2019-20.csv")
-
-    # Load required columns
-    ethnicity = data["Ethnicity"]
-    gender = data["Gender"]
-    freeSchoolMeals = data["FSM"]
-    senType = data["SEN_type"]
-    senGroup = data["SEN_grouping"]
-    admissionType = data["Admission_type"]
-    schoolCharacteristic = data["School_characteristic"]
-    religion = data["Religious_denomination"]
-    value = data["Value"]
-    denominator = data["Denominator"]
-    numerator = data["Numerator"]
 
     # Drops duplicates to make list of key terms
     myKeys = ethnicity.drop_duplicates(keep='first', inplace=False)
@@ -312,19 +315,6 @@ def TotalPassing():
                     if ethnicity[i] == "All" and gender[i] == "All" and freeSchoolMeals[i] == "All" and senType[i] == "All" and senGroup[i] == "All" and admissionType[i] == "All" and schoolCharacteristic[i] == "All state-funded" and religion[i] == variableKeys[x] and religion[i] != "All" and value[i] < 101:
                         PrintPassing(religion, i)
 
-    # Reads the data from file.
-    data = pd.read_csv("gcse-english-and-maths-national-data-2019-20.csv")
-
-    # Load required columns to list
-    ethnicity = data["Ethnicity"]
-    gender = data["Gender"]
-    freeSchoolMeals = data["FSM"]
-    senType = data["SEN_type"]
-    senGroup = data["SEN_grouping"]
-    admissionType = data["Admission_type"]
-    schoolCharacteristic = data["School_characteristic"]
-    religion = data["Religious_denomination"]
-    value = data["Value"]
 
     # Changes all 
     for x, valx in value.iteritems():
