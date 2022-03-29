@@ -42,7 +42,7 @@ def menu(ethnicity, gender, freeSchoolMeals, senType, senGroup, admissionType, s
     repeat=True
     while repeat==True:
         menuSelect=0
-        print("Enter a number between 1-4:\n1:Keyword search\n2:Co Efficient\n3:Total Passing\n4:Averages")
+        print("Enter a number between 1-4 or 5 to exit:\n1:Keyword search\n2:Co Efficient\n3:Total Passing\n4:Averages")
         menuSelect=input()
         if menuSelect == "1":
             print("Keyword Search")
@@ -60,6 +60,9 @@ def menu(ethnicity, gender, freeSchoolMeals, senType, senGroup, admissionType, s
             print ("Averages")
             averages()
             repeat = True
+        elif menuSelect == "5":
+            print("menu exit")
+            repeat = False
         else:
             print ("Invalid answer, please re enter")
             repeat = True
