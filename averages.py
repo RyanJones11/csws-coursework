@@ -1,6 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
-
+#imprting required libaries
 
 data = pd.read_csv("data.csv")
 ethnicity = data["Ethnicity"]
@@ -16,9 +16,11 @@ denominator = data["Denominator"]
 numerator = data["Numerator"]
 resultNames = []
 resultValues = []
-    
+ #creating lists from the coloumn in the data set and to store the results   
 
 def calcAvg(dict, keys):
+    #function to calculate an average from the list for each coloumn used from the dataset 
+    #and then to append those values to a list to store the results
     for x, valx in keys.iteritems():
         dict[keys[x]] = [float(x) for x in dict[keys[x]]]
         numOfThings = len(dict[keys[x]])
@@ -33,6 +35,9 @@ def calcAvg(dict, keys):
 
 
 def averageComputing(criteria, value):
+    #function get required search words, turn them into individual lists and then to populate 
+    #arrays with the required data and then to pass the dictionary of lists and key words into the calculating 
+    #average function
     keys = criteria.drop_duplicates(keep="first", inplace=False)
     dict = {}
     for n in keys:
@@ -45,7 +50,7 @@ def averageComputing(criteria, value):
                     dict[criteria[i]].append(value[i])
     calcAvg(dict, keys)
 
-
+#passing the required parameters into the first function to allow the data to be processed
 #print("Ethnicity Average:")
 averageComputing(ethnicity, value)
 #print("\n Gender Average:")
@@ -63,7 +68,7 @@ averageComputing(schoolCharacteristic, value)
 #print("\n religion Average:")
 averageComputing(religion, value)
 
-
+#code to create a visulisation from the data stored into the results arrays
 fig, ax = plt.subplots()
 
 ax.set_title("Bar plot")
@@ -71,4 +76,3 @@ ax.bar(resultNames, resultValues)
 ax.set_yticks(range(0,100,10))
 plt.xticks(rotation=60, ha='right')
 plt.show()
-
