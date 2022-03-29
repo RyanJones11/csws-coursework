@@ -4,6 +4,13 @@ import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
 
 
+#################################################################
+#                                                               #
+#                                                               #
+#                       Load Data                               #
+#                                                               #
+#                                                               #
+#################################################################
 
 
 # Reads the data from file.
@@ -19,8 +26,7 @@ admissionType = data["Admission_type"]
 schoolCharacteristic = data["School_characteristic"]
 religion = data["Religious_denomination"]
 value = data["Value"]
-denominator = data["Denominator"]
-numerator = data["Numerator"]
+
 
 
 
@@ -31,8 +37,8 @@ numerator = data["Numerator"]
 #                                                               #
 #                                                               #
 #################################################################
-TotalPassing()
-CoefficientOfDev()
+
+
 
 
 
@@ -49,7 +55,7 @@ CoefficientOfDev()
 #                                                               #
 #                                                               #
 #################################################################
-def CoefficientOfDev():
+def CoefficientOfDev(ethnicity, gender, freeSchoolMeals, senType, senGroup, admissionType, schoolCharacteristic, religion, value):
     # Calculates coeficient of variation.
 
 
@@ -273,7 +279,7 @@ def CoefficientOfDev():
 #                                                               #
 #                                                               #
 #################################################################
-def TotalPassing():
+def TotalPassing(ethnicity, gender, freeSchoolMeals, senType, senGroup, admissionType, schoolCharacteristic, religion, value):
 
     # Creates Lists
     variableList = []
@@ -363,4 +369,9 @@ def TotalPassing():
 
 
 
-menu()
+
+
+
+# This is temporary code. REMOVE IT WHEN MENU IS IMPLEMENTED!
+TotalPassing(ethnicity, gender, freeSchoolMeals, senType, senGroup, admissionType, schoolCharacteristic, religion, value)
+CoefficientOfDev(ethnicity, gender, freeSchoolMeals, senType, senGroup, admissionType, schoolCharacteristic, religion, value)
