@@ -70,5 +70,6 @@ ax.set_title("Bar plot")
 ax.bar(resultNames, resultValues)
 ax.set_yticks(range(0,100,10))
 plt.xticks(rotation=60, ha='right')
+plt.tight_layout()
 plt.show()
 
