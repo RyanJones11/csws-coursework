@@ -3,27 +3,6 @@ import math
 import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
 
-
-
-
-#################################################################
-#                                                               #
-#                                                               #
-#                       Menu Function                           #
-#                                                               #
-#                                                               #
-#################################################################
-TotalPassing()
-CoefficientOfDev()
-
-
-
-
-
-
-
-
-
 #################################################################
 #                                                               #
 #                                                               #
@@ -169,7 +148,7 @@ def CoefficientOfDev():
         CoefValueList.append(myCoef(newList2)*100)
 
     # Reads the data from file.
-    data = pd.read_csv("gcse-english-and-maths-national-data-2019-20.csv")
+    data = pd.read_csv("dataset.csv")
 
     # Load required columns
     ethnicity = data["Ethnicity"]
@@ -371,6 +350,34 @@ def TotalPassing():
 #################################################################
 
 
-
-
+#################################################################
+#                                                               #
+#                                                               #
+#                       Menu Function                           #
+#                                                               #
+#                                                               #
+#################################################################
+def menu():
+    repeat=True
+    while repeat==True:
+        menuSelect=0
+        print("Enter a number between 1-4:\n1:Keyword search\n2:Co Efficient\n3:Total Passing\n4:Averages")
+        menuSelect=input()
+        if menuSelect == "1":
+            print("Keyword Search")
+            repeat = True
+        elif menuSelect == "2":
+            print ("Co Efficient")
+            CoefficientOfDev()
+            repeat =True
+        elif menuSelect == "3":
+            print ("Total Passing")
+            TotalPassing()
+            repeat = True
+        elif menuSelect == "4":
+            print ("Averages")
+            repeat = True
+        else:
+            print ("Invalid answer, please re enter")
+            repeat = True
 menu()
