@@ -67,12 +67,3 @@ averageComputing(admissionType, value)
 averageComputing(schoolCharacteristic, value)
 #print("\n religion Average:")
 averageComputing(religion, value)
-
-#code to create a visulisation from the data stored into the results arrays
-fig, ax = plt.subplots()
-
-ax.set_title("Bar plot")
-ax.bar(resultNames, resultValues)
-ax.set_yticks(range(0,100,10))
-plt.xticks(rotation=60, ha='right')
-plt.show()

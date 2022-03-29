@@ -16,3 +16,12 @@ ax.plot(input_values, value1, 'mD:')
 ax.plot(input_values, value2, 'ro--')
 
 plt.show()
+
+fig, ax = plt.subplots()
+
+ax.set_title("Bar plot")
+ax.bar(resultNames, resultValues)
+ax.set_yticks(range(0,100,10))
+plt.xticks(rotation=60, ha='right')
+plt.tight_layout()
+plt.show()
