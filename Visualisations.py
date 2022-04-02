@@ -372,7 +372,7 @@ def TotalPassing(ethnicity, gender, freeSchoolMeals, senType, senGroup, admissio
 
     fig, ax = plt.subplots()
 
-    plt.title("Bar Chart\n To show average percentage of students achieveing grades 5-9")
+    plt.title("Bar Chart\n To show the total percentage of students passing")
     ax.set_xlabel("Variable", fontsize=12)
     ax.set_ylabel("Percentage", fontsize=12)
     ax.bar(variableList, valueList)
