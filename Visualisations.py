@@ -5,6 +5,12 @@ import math
 import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
 
+# This program creates visualisations based off data processed through
+# differnt algorithms.
+# 1: Calculates the amount of variance/coeficcient per group.
+# 2: Total percentage of students from each category that achieved grade 5-9.
+# 3: The average pass percentage of a record containing.
+# 4: Exits the application.
 
 #################################################################
 #                                                               #
