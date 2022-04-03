@@ -129,9 +129,9 @@ def CoefficientOfDev(ethnicity, gender, freeSchoolMeals, senType, senGroup, admi
             if ethnicity[i] == myVariable:
                 newList.append(value[i])
 
-        CoefVariableList.append(myVariable)
+        print(myVariable, end=":\t\t")
         newList2 = pd.Series(newList)
-        CoefValueList.append(myCoef(newList2)*100)
+        print("{:.2f}".format((myCoef(newList2)*100)), end="%\n")
     
     # Calculates the coefficient of standard deviation for Gender
     def genderCoef(myVariable):
@@ -140,9 +140,9 @@ def CoefficientOfDev(ethnicity, gender, freeSchoolMeals, senType, senGroup, admi
             if gender[i] == myVariable:
                 newList.append(value[i])
 
-        CoefVariableList.append(myVariable)
+        print(myVariable, end=":\t\t")
         newList2 = pd.Series(newList)
-        CoefValueList.append(myCoef(newList2)*100)
+        print("{:.2f}".format((myCoef(newList2)*100)), end="%\n")
 
     # Calculates the coefficient of standard deviation for Free School Meals
     def fsmCoef(myVariable):
@@ -151,9 +151,9 @@ def CoefficientOfDev(ethnicity, gender, freeSchoolMeals, senType, senGroup, admi
             if freeSchoolMeals[i] == myVariable:
                 newList.append(value[i])
 
-        CoefVariableList.append(myVariable)
+        print(myVariable, end=":\t\t")
         newList2 = pd.Series(newList)
-        CoefValueList.append(myCoef(newList2)*100)
+        print("{:.2f}".format((myCoef(newList2)*100)), end="%\n")
 
     # Calculates the coefficient of standard deviation for Special Educational Needs Type
     def senTypeCoef(myVariable):
@@ -162,9 +162,9 @@ def CoefficientOfDev(ethnicity, gender, freeSchoolMeals, senType, senGroup, admi
             if senType[i] == myVariable:
                 newList.append(value[i])
 
-        CoefVariableList.append(myVariable)
+        print(myVariable, end=":\t\t")
         newList2 = pd.Series(newList)
-        CoefValueList.append(myCoef(newList2)*100)
+        print("{:.2f}".format((myCoef(newList2)*100)), end="%\n")
 
     # Calculates the coefficient of standard deviation for Special Education Needs Group
     def senGroupCoef(myVariable):
@@ -173,9 +173,9 @@ def CoefficientOfDev(ethnicity, gender, freeSchoolMeals, senType, senGroup, admi
             if senGroup[i] == myVariable:
                 newList.append(value[i])
 
-        CoefVariableList.append(myVariable)
+        print(myVariable, end=":\t\t")
         newList2 = pd.Series(newList)
-        CoefValueList.append(myCoef(newList2)*100)
+        print("{:.2f}".format((myCoef(newList2)*100)), end="%\n")
 
     # Calculates the coefficient of standard deviation for Admission type
     def admisCoef(myVariable):
@@ -184,9 +184,9 @@ def CoefficientOfDev(ethnicity, gender, freeSchoolMeals, senType, senGroup, admi
             if admissionType[i] == myVariable:
                 newList.append(value[i])
 
-        CoefVariableList.append(myVariable)
+        print(myVariable, end=":\t\t")
         newList2 = pd.Series(newList)
-        CoefValueList.append(myCoef(newList2)*100)
+        print("{:.2f}".format((myCoef(newList2)*100)), end="%\n")
 
     # Calculates the coefficient of standard deviation for School Characteristic
     def schoolCoef(myVariable):
@@ -195,9 +195,9 @@ def CoefficientOfDev(ethnicity, gender, freeSchoolMeals, senType, senGroup, admi
             if schoolCharacteristic[i] == myVariable:
                 newList.append(value[i])
 
-        CoefVariableList.append(myVariable)
+        print(myVariable, end=":\t\t")
         newList2 = pd.Series(newList)
-        CoefValueList.append(myCoef(newList2)*100)
+        print("{:.2f}".format((myCoef(newList2)*100)), end="%\n")
 
     # Calculates the coefficient of standard deviation for Religion
     def religionCoef(myVariable):
@@ -206,9 +206,9 @@ def CoefficientOfDev(ethnicity, gender, freeSchoolMeals, senType, senGroup, admi
             if religion[i] == myVariable:
                 newList.append(value[i])
 
-        CoefVariableList.append(myVariable)
+        print(myVariable, end=":\t\t")
         newList2 = pd.Series(newList)
-        CoefValueList.append(myCoef(newList2)*100)
+        print("{:.2f}".format((myCoef(newList2)*100)), end="%\n")
 
 
     # Drops duplicates to make list of key terms
@@ -306,8 +306,8 @@ def TotalPassing(ethnicity, gender, freeSchoolMeals, senType, senGroup, admissio
 
     # Appends variable and associated value to list to be displayed.
     def PrintPassing(focus, i):
-        variableList.append(focus[i])
-        valueList.append(value[i])
+        print(focus[i], end=": ")
+        print(value[i], end="%\n")
 
     def CalcPassing(focus, myIndex):
         # Gets total percentage of passing student and percentage of passing students based on ethnicity
@@ -315,35 +315,35 @@ def TotalPassing(ethnicity, gender, freeSchoolMeals, senType, senGroup, admissio
         for x, valx in variableKeys.iteritems():
             for i, val in ethnicity.iteritems():
                 if myIndex == 1:
-                    if ethnicity[i] == variableKeys[x] and gender[i] == "All" and freeSchoolMeals[i] == "All" and senType[i] == "All" and senGroup[i] == "All" and admissionType[i] == "All" and schoolCharacteristic[i] == "All state-funded" and religion[i] == "All" and value[i] < 101:
+                    if ethnicity[i] == variableKeys[x] and gender[i] == "All" and freeSchoolMeals[i] == "All" and senType[i] == "All" and senGroup[i] == "All" and admissionType[i] == "All" and schoolCharacteristic[i] == "All state-funded" and religion[i] == "All" and value[i] > -1:
                         PrintPassing(ethnicity, i)
                 if myIndex == 2:
-                    if ethnicity[i] == "All" and gender[i] == variableKeys[x] and gender[i] != "All" and freeSchoolMeals[i] == "All" and senType[i] == "All" and senGroup[i] == "All" and admissionType[i] == "All" and schoolCharacteristic[i] == "All state-funded" and religion[i] == "All" and value[i] < 101:
+                    if ethnicity[i] == "All" and gender[i] == variableKeys[x] and gender[i] != "All" and freeSchoolMeals[i] == "All" and senType[i] == "All" and senGroup[i] == "All" and admissionType[i] == "All" and schoolCharacteristic[i] == "All state-funded" and religion[i] == "All" and value[i] > -1:
                         PrintPassing(gender, i)
                 if myIndex == 3:
-                    if ethnicity[i] == "All" and gender[i] == "All" and freeSchoolMeals[i] == variableKeys[x] and freeSchoolMeals[i] != "All" and senType[i] == "All" and senGroup[i] == "All" and admissionType[i] == "All" and schoolCharacteristic[i] == "All state-funded" and religion[i] == "All" and value[i] < 101:
+                    if ethnicity[i] == "All" and gender[i] == "All" and freeSchoolMeals[i] == variableKeys[x] and freeSchoolMeals[i] != "All" and senType[i] == "All" and senGroup[i] == "All" and admissionType[i] == "All" and schoolCharacteristic[i] == "All state-funded" and religion[i] == "All" and value[i] > -1:
                         PrintPassing(freeSchoolMeals, i)
                 if myIndex == 4:
-                    if ethnicity[i] == "All" and gender[i] == "All" and freeSchoolMeals[i] == "All" and senType[i] == variableKeys[x] and senType[i] != "All" and senGroup[i] == "All" and admissionType[i] == "All" and schoolCharacteristic[i] == "All state-funded" and religion[i] == "All" and value[i] < 101:
+                    if ethnicity[i] == "All" and gender[i] == "All" and freeSchoolMeals[i] == "All" and senType[i] == variableKeys[x] and senType[i] != "All" and senGroup[i] == "All" and admissionType[i] == "All" and schoolCharacteristic[i] == "All state-funded" and religion[i] == "All" and value[i] > -1:
                         PrintPassing(senType, i)
                 if myIndex == 5:
-                    if ethnicity[i] == "All" and gender[i] == "All" and freeSchoolMeals[i] == "All" and senType[i] == "All" and senGroup[i] == variableKeys[x] and senGroup[i] != "All" and admissionType[i] == "All" and schoolCharacteristic[i] == "All state-funded" and religion[i] == "All" and value[i] < 101:
+                    if ethnicity[i] == "All" and gender[i] == "All" and freeSchoolMeals[i] == "All" and senType[i] == "All" and senGroup[i] == variableKeys[x] and senGroup[i] != "All" and admissionType[i] == "All" and schoolCharacteristic[i] == "All state-funded" and religion[i] == "All" and value[i] > -1:
                         PrintPassing(senGroup, i)
                 if myIndex == 6:
-                    if ethnicity[i] == "All" and gender[i] == "All" and freeSchoolMeals[i] == "All" and senType[i] == "All" and senGroup[i] == "All" and admissionType[i] == variableKeys[x] and admissionType[i] != "All" and schoolCharacteristic[i] == "All state-funded" and religion[i] == "All" and value[i] < 101:
+                    if ethnicity[i] == "All" and gender[i] == "All" and freeSchoolMeals[i] == "All" and senType[i] == "All" and senGroup[i] == "All" and admissionType[i] == variableKeys[x] and admissionType[i] != "All" and schoolCharacteristic[i] == "All state-funded" and religion[i] == "All" and value[i] > -1:
                         PrintPassing(admissionType, i)
                 if myIndex == 7:
-                    if ethnicity[i] == "All" and gender[i] == "All" and freeSchoolMeals[i] == "All" and senType[i] == "All" and senGroup[i] == "All" and admissionType[i] == "All" and schoolCharacteristic[i] == variableKeys[x] and schoolCharacteristic[i] != "All state-funded" and religion[i] == "All" and value[i] < 101:
+                    if ethnicity[i] == "All" and gender[i] == "All" and freeSchoolMeals[i] == "All" and senType[i] == "All" and senGroup[i] == "All" and admissionType[i] == "All" and schoolCharacteristic[i] == variableKeys[x] and schoolCharacteristic[i] != "All state-funded" and religion[i] == "All" and value[i] > -1:
                         PrintPassing(schoolCharacteristic, i)
                 if myIndex == 8:
-                    if ethnicity[i] == "All" and gender[i] == "All" and freeSchoolMeals[i] == "All" and senType[i] == "All" and senGroup[i] == "All" and admissionType[i] == "All" and schoolCharacteristic[i] == "All state-funded" and religion[i] == variableKeys[x] and religion[i] != "All" and value[i] < 101:
+                    if ethnicity[i] == "All" and gender[i] == "All" and freeSchoolMeals[i] == "All" and senType[i] == "All" and senGroup[i] == "All" and admissionType[i] == "All" and schoolCharacteristic[i] == "All state-funded" and religion[i] == variableKeys[x] and religion[i] != "All" and value[i] > -1:
                         PrintPassing(religion, i)
 
 
     # Changes all 
     for x, valx in value.iteritems():
         if value[x] == "!":
-            value[x] = "200"
+            value[x] = "-1"
 
     # Changes all values to numeric
     value = pd.to_numeric(value)
@@ -458,7 +458,6 @@ def averages():
     averageComputing(schoolCharacteristic, value)
     #print("\n religion Average:")
     averageComputing(religion, value)
-    print("Done")
 
 
 
