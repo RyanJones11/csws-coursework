@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 data = pd.read_csv("dataset.csv", na_values=["!"])
-data.dropna() ##function too drop all null values
+data.dropna() #function too drop all null values
 
 ethnicity_values = data ["Ethnicity"]
 sen_values = data["SEN_type"]
