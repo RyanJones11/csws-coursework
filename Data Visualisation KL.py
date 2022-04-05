@@ -1,53 +1,42 @@
 from turtle import color, width
 import pandas as pd
 import matplotlib.pyplot as plt
-def menu():
-    repeat=True
-    while repeat==True:
-        menuSelect=0
-        print("Select Option 1 to visualise data or 2 to exit program")
-        menuSelect=input()
-        if menuSelect == "1":
-            data = pd.read_csv("dataset.csv", na_values=["!"])
-            data.dropna() #function too drop all null values
+import numpy
 
-            ethnicity_values = data ["Ethnicity"]
-            sen_values = data["SEN_type"]
-            fsm_values = data["FSM"]
-            gender_values = data["Gender"]
-            admission_values = data["Admission_type"]
-            schoolChar_values = data["School_characteristic"]
-            religion_values = data["Religious_denomination"]
-            Score_values = data["Value"]
+## creates series
+variableList = []
+variableValues = []
 
-            fig, axs = plt.subplots()
+data = pd.read_csv("dataset.csv", na_values=["!"])
+data.dropna() #function too drop all null values
 
-            axs.set_yticks(range(0,100,10))
+ethnicity_values = data ["Ethnicity"]
+sen_values = data["SEN_type"]
+fsm_values = data["FSM"]
+gender_values = data["Gender"]
+admission_values = data["Admission_type"]
+schoolChar_values = data["School_characteristic"]
+religion_values = data["Religious_denomination"]
+Score_values = data["Value"]
 
-            axs.set_title("GCSE Results 2019-20", fontsize=14)
-            axs.set_xlabel("Group types", fontsize=12)
-            axs.set_ylabel("GCSE passing percentage(%)", fontsize=12)
+fig, axs = plt.subplots()
 
-            axs.bar(ethnicity_values, Score_values, width=0.5, color= "black")
-            axs.bar(gender_values, Score_values, width= 0.5, color= "yellow")
-            axs.bar(religion_values, Score_values, width= 0.5, color= "blue")
-            axs.bar(sen_values, Score_values, width= 0.5, color ="red")
-            axs.bar(fsm_values, Score_values, width= 0.5, color ="orange")
-            axs.bar(schoolChar_values, Score_values, width= 0.5, color="green")
-            axs.bar(admission_values, Score_values, width=0.5, color="brown")#function for displaying data with width and color values
+axs.set_yticks(range(0,100,10))
 
-            plt.xticks(rotation = 40, horizontalAlignment = "right")#function for rotating the group names for a better design
-            axs.yaxis.grid()
+axs.set_title("GCSE Results 2019-20", fontsize=14)
+axs.set_xlabel("Group types", fontsize=12)
+axs.set_ylabel("GCSE passing percentage(%)", fontsize=12)
 
-            plt.tight_layout()
-            plt.show()
-            repeat=True
-        
-        elif menuSelect=="2":
-            print("program exit")
-            repeat=False
-        
-        else:
-            print("invalid option, please select option 1 or 2")
-            repeat=True
-menu()
+axs.bar(ethnicity_values, Score_values, width=0.5, color= "black")
+axs.bar(gender_values, Score_values, width= 0.5, color= "yellow")
+axs.bar(religion_values, Score_values, width= 0.5, color= "blue")
+axs.bar(sen_values, Score_values, width= 0.5, color ="red")
+axs.bar(fsm_values, Score_values, width= 0.5, color ="orange")
+axs.bar(schoolChar_values, Score_values, width= 0.5, color="green")
+axs.bar(admission_values, Score_values, width=0.5, color="brown")#function for displaying data with width and color values
+
+plt.xticks(rotation = 40, horizontalAlignment = "right")#function for rotating the group names for a better design
+axs.yaxis.grid()
+
+plt.tight_layout()
+plt.show()
