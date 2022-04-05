@@ -20,4 +20,3 @@ ax.set_xlabel("Whether Free school meals are available", fontsize=12)
 ax.bar(fsm, percentagePassed, width=0.5, color="green") #Plots the bars that represent each of the options in the FSM column 
 ax.yaxis.grid()
 plt.show()
-
