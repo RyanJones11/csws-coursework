@@ -437,8 +437,9 @@ def averages():
         for x, valx in keys.iteritems():
             for i, val in criteria.iteritems():
                 if keys[x] == criteria[i]:
-                    if value[i] != "!":
-                        dict[criteria[i]].append(value[i])
+                    if value[i] == "!":
+                        value[i] = 0
+                    dict[criteria[i]].append(value[i])
         calcAvg(dict, keys)
 
     #passing the required parameters into the first function to allow the data to be processed
