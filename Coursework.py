@@ -419,7 +419,7 @@ def averages():
             if numOfThings != 0:
                 average = (total/numOfThings)
                 average = "{:.2f}".format(average)
-            print(keys[x] +": " +average +"%")
+            #print(keys[x] +": " +average +"%")
             average = float(average)
             resultNames.append(keys[x])
             resultValues.append(average)
